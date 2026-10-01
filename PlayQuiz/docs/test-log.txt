@@ -1,0 +1,4546 @@
+< # Normal + Control Run (Y / N — Continued / Exit) >
+
+
+ Hello! Welcome to Play Quiz @''@ 
+
+ Get ready with your keyboard because... 
+ I'll be asking you 78 questions! 
+
+ PRESS ENTER TO SKIP ANY QUESTION! 
+
+ DON'T EXCEED 1000 CHARACTERS! 
+
+ And good luck > '' < 
+ 
+Q1: Which keyword is used to define a class in Java?
+A) interface
+B) enum
+C) class
+D) method
+Do you know the answer (a/b/c/d)?
+c
+
+You entered: class
+That's correct!
+
+Q2: Java is primarily which type of programming language?
+A) Functional
+B) Procedural
+C) Object-Oriented
+D) Logical
+Do you know the answer (a/b/c/d)?
+  object-OriENteD
+
+You entered: Object-Oriented
+That's correct!
+
+Q3: Which keyword is used for defining an integer variable in Java?
+A) Int
+B) num
+C) digit
+D) int
+Do you know the answer (a/b/c/d)?
+int
+
+You entered: int
+That's correct!
+
+Q4: Which component of Java is responsible for running bytecode?
+A) JRE
+B) JVM
+C) JDK
+D) JavaC
+Do you know the answer (a/b/c/d)?
+BBBBBBBBBB
+
+You entered: JVM
+That's correct!
+
+Q5: Which method serves as the entry point of a Java program?
+A) start
+B) run
+C) main
+D) execute
+Do you know the answer (a/b/c/d)?
+o p t i o n    c
+
+You entered: main
+That's correct!
+
+Q6: Which method is used to add a new line character at the end of the output in the console?
+A) print()
+B) printf()
+C) println()
+D) log()
+Do you know the answer (a/b/c/d)?
+opt 3
+
+You entered: println()
+That's correct!
+
+Q7: Is Java a Strictly Typed Language?
+A) Yes
+B) No
+C) Maybe
+D) There is no such thing
+Do you know the answer (a/b/c/d)?
+y
+
+You entered: Yes
+That's correct!
+
+Q8: What kind of error will be thrown if the main method is not found in the Java program?
+A) Semantic Error
+B) Logical Error
+C) Runtime Error
+D) Compile Error
+Do you know the answer (a/b/c/d)?
+Runtime error
+
+You entered: Runtime Error
+That's correct!
+
+Q9: Which of the following is the valid way to represent a long literal in Java?
+A) 123l
+B) 0b1010L
+C) 123L
+D) All of the above
+Do you know the answer (a/b/c/d)?
+4th
+
+You entered: All of the above
+That's correct!
+
+Q10: What do you mean by type promotion in Java?
+A) Conversion of data from lower to higher data types
+B) Conversion of data from higher to lower data types
+C) Conversion of data from string type to other data types
+D) Conversion of data from object data types to primitive data types
+Do you know the answer (a/b/c/d)?
+one
+
+You entered: Conversion of data from lower to higher data types
+That's correct!
+
+Q11: Choose an invalid way to declare a character variable in Java.
+A) char c = 'a'
+B) char c = "a"
+C) char c = 97
+D) char c = '\u0061'
+Do you know the answer (a/b/c/d)?
+char c = "a"
+
+You entered: char c = "a"
+That's correct!
+
+Q12: What is the default value assigned to a variable of boolean type?
+A) True
+B) False
+C) 0
+D) 1
+Do you know the answer (a/b/c/d)?
+f   
+
+You entered: False
+That's correct!
+
+Q13: What is the result of the following code snippet?
+
+class Main {
+        public static void main(String[] args) {
+                char ch = 'a';
+                char result = (char) (ch + 1);
+                System.out.println(result);
+        }
+}
+
+A) a
+B) b
+C) 98
+D) Compilation Error
+Do you know the answer (a/b/c/d)?
+b
+
+You entered: b
+That's correct!
+
+Q14: What is the result of the following code snippet?
+
+class Main {
+        public static void main(String[] args) {
+                byte b1=5,b2=6;
+                byte b3=(byte)(b1+b2);
+                System.out.println(b3);
+        }
+}
+
+A) 11
+B) 5
+C) Run-time error
+D) Compile-time error
+Do you know the answer (a/b/c/d)?
+11 
+
+You entered: 11
+That's correct!
+
+Q15: What does a high-order bit represent for an integer?
+A) sign of integer
+B) magnitude of integer
+C) binary number
+D) nonnegative number
+Do you know the answer (a/b/c/d)?
+1   ss ttt
+
+You entered: sign of integer
+That's correct!
+
+Q16: What is the result of the following expression: !(true || false)?
+A) true
+B) false
+C) Error
+D) 0
+Do you know the answer (a/b/c/d)?
+false
+
+You entered: false
+That's correct!
+
+Q17: What will be the value of variables 'a' and 'b' after the execution of the given code?
+
+class Main {
+        public static void main(String[] args) {
+                int a, b;
+                a=b=10;
+                System.out.println(a);
+                System.out.println(b);
+        }
+}
+
+A) compile time error
+B) runtime error
+C) a=0 and b=10
+D) a=10 and b=10
+Do you know the answer (a/b/c/d)?
+a=10 and b=10
+
+You entered: a=10 and b=10
+That's correct!
+
+Q18: Predict the output of the following code:
+
+class Main {
+        public static void main(String[] args) {
+                int a = 3;
+                int b = 6;
+                int result = (~a & b) | (a & ~b);
+                System.out.println(result);
+        }
+}
+
+A) 5
+B) 7
+C) 0
+D) 1
+Do you know the answer (a/b/c/d)?
+first
+
+You entered: 5
+That's correct!
+
+Q19: Which conditional statement is used to check multiple possible values of a variable?
+A) if-else
+B) switch
+C) ternary operator
+D) nested if-else
+Do you know the answer (a/b/c/d)?
+SWITCH
+
+You entered: switch
+That's correct!
+
+Q20: What is the output of the following program in Java?
+
+if(1) {
+        System.out.println("Aloo Bhujiya");
+}
+
+A) Aloo Bhujiya
+B) 1
+C) Compile-time error
+D) Run-time error
+Do you know the answer (a/b/c/d)?
+1
+
+You entered: 1
+Oh-ooh! You got it wrong >w' _ 'w<
+The correct answer is: Compile-time error
+
+Q21: Predict the output of the code:
+
+int x = 2;
+switch(x) {
+        case 1:
+
+        case 2:
+
+        case 3:
+
+                System.out.println("Fly");
+                break;
+        case 4:
+
+                System.out.println("Swim");
+}
+
+A) Compile-time error
+B) Fly
+C) Swim
+D) No Output
+Do you know the answer (a/b/c/d)?
+Fly
+
+You entered: Fly
+That's correct!
+
+Q22: What will be the value of variables 'x' and 'y' from the given code?
+
+int x = 5;
+int y = 10;
+int z = (x++ > 5 && y-- < 10) ? x-- : y;
+
+A) x=7 and y=10
+B) x=6 and y=10
+C) x=5 and y=9
+D) x=5 and y=10
+Do you know the answer (a/b/c/d)?
+2
+
+You entered: x=6 and y=10
+That's correct!
+
+Q23: Which loop executes the code block based on a condition that is checked before each iteration in Java?
+A) while loop
+B) for loop
+C) do-while loop
+D) Both a and b
+Do you know the answer (a/b/c/d)?
+4th fourth four four option opt opt D
+
+You entered: Both a and b
+That's correct!
+
+Q24: What is the type of the do-while loop in terms of control flow?
+A) Entry-controlled loop
+B) Exit-controlled loop
+C) Infinite loop
+D) Nested loop
+Do you know the answer (a/b/c/d)?
+b option
+
+You entered: Exit-controlled loop
+That's correct!
+
+Q25: What will be the output of the given code snippet?
+
+public static void main(String[] args) {
+        int i, j;
+        i = 100;
+        j=300;
+        while(++i < --j);
+        System.out.println(i);
+}
+
+A) 150
+B) 100
+C) 200
+D) Compile-time error
+Do you know the answer (a/b/c/d)?
+200
+
+You entered: 200
+That's correct!
+
+Q26: Does the 'new' keyword allocate memory for an object during runtime in Java?
+A) Yes
+B) No
+C) It doesn't exist
+D) new is not a keyword
+Do you know the answer (a/b/c/d)?
+Yes
+
+You entered: Yes
+That's correct!
+
+Q27: Does the main() method be overloaded in Java?
+A) Yes
+B) No
+C) main is not a method
+D) Only in special cases
+Do you know the answer (a/b/c/d)?
+
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: Yes
+
+Q28: What will happen if a local variable has the same name as an instance variable within a class?
+A) Local variable hides the instance variable
+B) Instance variable hides the local variable
+C) Local variable executes after instance variable
+D) A compile-time error will occur
+Do you know the answer (a/b/c/d)?
+1
+
+You entered: Local variable hides the instance variable
+That's correct!
+
+Q29: Which term is used when we can define two or more methods of the same name within the same class?
+A) Method overriding
+B) Method overloading
+C) Method hiding
+D) Method construction
+Do you know the answer (a/b/c/d)?
+!2````__---
+
+You entered: Method overloading
+That's correct!
+
+Q30: What will be printed after the execution of the given code?
+
+class Message {
+        public void printMessage(int message) {
+                        System.out.println("Message primitive: " + message);
+        }
+
+        public void printMessage(Integer message) {
+        System.out.println("Message object: " + message);
+        }
+}
+
+class Main {
+        public static void main(String[] ars) {
+                int a = 3;
+                Message ob=new Message();
+                ob.printMessage(5);
+        }
+}
+
+A) Message primitive: 5
+B) Message object: 5
+C) Compile-time error
+D) Run-time error
+Do you know the answer (a/b/c/d)?
+aaa89999000-- first 1st
+
+You entered: Message primitive: 5
+That's correct!
+
+Q31: Where are instance variables allocated in memory?
+A) Stack
+B) Heap
+C) Queue
+D) Array
+Do you know the answer (a/b/c/d)?
+b   
+
+You entered: Heap
+That's correct!
+
+Q32: Which subsystem of the JVM is responsible for loading class files?
+A) ClassLoader
+B) JVM Loader
+C) Bytecode Loader
+D) Run-time Loader
+Do you know the answer (a/b/c/d)?
+a
+
+You entered: ClassLoader
+That's correct!
+
+Q33: What does arr[arr.length-1].length represents in a multidimensional array?Length of the longest column in the array
+A) Length of the longest column in the array
+B) Number of columns in the array
+C) Total number of elements in the array
+D) Length of the last row in the array
+Do you know the answer (a/b/c/d)?
+ddddddddddDD DDDD
+
+You entered: Length of the last row in the array
+That's correct!
+
+Q34: What will be printed after the execution of the given code?
+
+class Main{
+        public static void main(String[] args) {
+                String password[] = { "XY01", "XY02", "XY03", "XY04"};
+                String result =" ";
+                for(int i = password.length-1; i>=2; i--) {
+                        result = result + password[i];
+                }
+                System.out.println(result); }
+}
+
+A) XY01XY02
+B) XY03XY02
+C) XY04XY03
+D) Run-time error
+Do you know the answer (a/b/c/d)?
+XYO4XYO3
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: XY04XY03
+
+Q35: Which access modifier is used to access members of an inherited class when two classes are in different packages?
+A) private
+B) default
+C) protected
+D) static
+Do you know the answer (a/b/c/d)?
+protecTED
+
+You entered: protected
+That's correct!
+
+Q36: Which principle emphasizes the binding of data and methods within a class?
+A) Polymorphism
+B) Encapsulation
+C) Abstraction
+D) Inheritance
+Do you know the answer (a/b/c/d)?
+3rd 
+
+You entered: Abstraction
+Oh-ooh! You got it wrong >w' _ 'w<
+The correct answer is: Encapsulation
+
+Q37: Can the value of a variable be changed if it is initialized with the 'final' keyword?
+A) Yes
+B) Sometimes
+C) No
+D) Only once
+Do you know the answer (a/b/c/d)?
+Only oncE
+
+You entered: Only once
+Oh-ooh! You got it wrong >w' _ 'w<
+The correct answer is: No
+
+Q38: Does the given code defines the valid way to initialize the value to the final variable?
+
+class MyClass {
+        private final int myVariable;
+        {
+                myVariable = 10;
+        }
+}
+
+A) No
+B) Yes
+C) Compile-time error
+D) Run-time error
+Do you know the answer (a/b/c/d)?
+yes
+
+You entered: Yes
+That's correct!
+
+Q39: Which keyword is used to define a class member that can be accessed without reference to any object?
+A) private
+B) public
+C) final
+D) static
+Do you know the answer (a/b/c/d)?
+4
+
+You entered: static
+That's correct!
+
+Q40: Which keyword is used to achieve inheritance in Java?
+A) final
+B) extends
+C) this
+D) implements
+Do you know the answer (a/b/c/d)?
+gugu gaga
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: extends
+
+Q41: Can a class be a superclass of itself in Java?
+A) Yes
+B) No
+C) I don't know
+D) Java allows circular reference
+Do you know the answer (a/b/c/d)?
+200
+
+You entered: No
+That's correct!
+
+Q42: Is method shadowing or method hiding possible with the private method?
+A) Yes
+B) No
+C) I don't know
+D) There is no concept as method shadowing
+Do you know the answer (a/b/c/d)?
+895781
+
+You entered: Yes
+That's correct!
+
+Q43: What is the return type of overridden methods?
+A) Covariant Return Types
+B) Different from a superclass
+C) void only
+D) Not specified
+Do you know the answer (a/b/c/d)?
+99
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: Covariant Return Types
+
+Q44: What interface is implemented by the String, StringBuffer, and StringBuilder classes?
+A) StringSequence
+B) CharSequence
+C) StringManipulator
+D) CharSequenceBuffer
+Do you know the answer (a/b/c/d)?
+opt b
+
+You entered: CharSequence
+That's correct!
+
+Q45: What will be the output of the given code snippet?
+
+char chars[] = {'a', 'b', 'c', 'd', 'e', 'f'};
+String str = new String(chars,1,3);
+System.out.println(str);
+
+A) ['b', 'c', 'd']
+B) ['b', 'c', 'd', 'e']
+C) bcd
+D) bcde
+Do you know the answer (a/b/c/d)?
+bcd
+
+You entered: bcd
+That's correct!
+
+Q46: Which constructor of StringBuffer reserves room for 16 characters without reallocation?
+A) StringBuffer()
+B) StringBuffer(int size)
+C) StringBuffer(String str)
+D) StringBuffer(CharSequence chars)
+Do you know the answer (a/b/c/d)?
+OPTION A OPTION OPTION OPTION AAAAA
+
+You entered: StringBuffer()
+That's correct!
+
+Q47: Which class can be used when multiple threads are involved and thread-safety is required?
+A) StringBuffer
+B) StringBuilder
+C) Both can be used
+D) None of the above
+Do you know the answer (a/b/c/d)?
+a
+
+You entered: StringBuffer
+That's correct!
+
+Q48: What will be the value of the s1 and s2 variables after the execution of the following code?
+
+class Main{
+        public static void main(String[] args) {
+                char ch [] = {'T', 'e', 'l', 'u', 's', 'k', 'o'};
+                String st1 = new String(ch);
+                String st2 = new String(st1);
+                System.out.println(st1);
+                System.out.println(st2);
+
+A) Telusko and null
+B) Telusko and st1
+C) Telusko and Telusko
+D) Telusko and ['T', 'e', 'l', 'u', 's', 'k', 'o']
+Do you know the answer (a/b/c/d)?
+three 
+
+You entered: Telusko and Telusko
+That's correct!
+
+Q49: Determine the capacity of the StringBuffer before and after the use of trimToSize() method in the given code:
+
+StringBuffer sb = new StringBuffer("Java Code");
+System.out.println(sb.capacity());
+sb.trimToSize();
+System.out.println(sb.capacity());
+
+A) 16 and 16
+B) 16 and 9
+C) 25 and 9
+D) 25 and 16
+Do you know the answer (a/b/c/d)?
+third
+
+You entered: 25 and 9
+That's correct!
+
+Q50: What Java keyword is employed for specifying a default method within a Java interface?
+A) new
+B) override
+C) implements
+D) default
+Do you know the answer (a/b/c/d)?
+four
+
+You entered: default
+That's correct!
+
+Q51: When implementing a Java interface, methods must possess the following access modifier:
+A) public
+B) abstract
+C) private
+D) protected
+Do you know the answer (a/b/c/d)?
+ion opt o    p  ttt iii oo nnn b
+
+You entered: abstract
+Oh-ooh! You got it wrong >w' _ 'w<
+The correct answer is: public
+
+Q52: By default, the methods enclosed within a Java interface are characterized as:
+A) abstract and public
+B) synchronized and void
+C) private and static
+D) final and protected
+Do you know the answer (a/b/c/d)?
+1
+
+You entered: abstract and public
+That's correct!
+
+Q53: What is the output of the following code snippet?
+
+interface MyCode{
+        double myScore();
+}
+
+public class Main{
+        public static void main(String[] args) {
+                MyCode myScore;
+                myCode = () -> 87;
+                System.out.println(MyCode.myScore());
+        }
+}
+
+A) 87
+B) 87.0
+C) Run-time error
+D) Compile-time error
+Do you know the answer (a/b/c/d)?
+d
+
+You entered: Compile-time error
+That's correct!
+
+Q54: What is the output of the code?
+
+public class Main{
+        int a=5;
+        A obj =()->{ System.out.println(this.a);};
+        public static void main(String[] args) {
+                Main ob=new Main();
+                ob.obj.run();
+        }
+}
+
+interface A {
+         public void run();
+}
+
+A) 5
+B) 0
+C) Run-time error
+D) Compile-time error
+Do you know the answer (a/b/c/d)?
+1 111 11st
+
+You entered: 5
+That's correct!
+
+Q55: Comment on the statement: "The method defined by a lambda expression does not have a name."
+A) True
+B) False
+C) Not a valid question
+D) Skip
+Do you know the answer (a/b/c/d)?
+false
+
+You entered: False
+That's correct!
+
+Q56: What is the output of the code?
+
+class A {
+        public void run() {
+                System.out.println("I am running");
+        }
+}
+
+class Outer {
+        static A obj=new A(){};
+        public static void main(String[] args) {
+                obj.run();
+        }
+}
+
+A) No output
+B) I am running
+C) Run-time error
+D) Compile-time error
+Do you know the answer (a/b/c/d)?
+i am running
+
+You entered: I am running
+That's correct!
+
+Q57: What does Inner classes promote in Java?
+A) Composition and aggregation
+B) Inheritance
+C) Polymorphism
+D) Abstraction
+Do you know the answer (a/b/c/d)?
+a
+
+You entered: Composition and aggregation
+That's correct!
+
+Q58: How do you access the method "m1()" of the inner class inside the main method?
+
+class Outer {
+        class Inner {
+                public void m1() {
+                        System.out.println("inner class instance m1()");}
+        }
+public static void main(String[] args) {}
+}
+
+A) Outer.Inner i = new Outer().Inner();
+B) Inner i = new Outer().new Inner();
+C) Outer.Inner i = new Outer().new Inner();
+D) new Outer().new Inner().m1();
+Do you know the answer (a/b/c/d)?
+d
+
+You entered: new Outer().new Inner().m1();
+That's correct!
+
+Q59: What is the key requirement for an interface to be considered a functional interface?
+A) It must define at least one abstract method
+B) It must define multiple abstract methods
+C) It must define only one abstract method
+D) It must define a method named "run"
+Do you know the answer (a/b/c/d)?
+
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: It must define only one abstract method
+
+Q60: Which of the given expressions returns 'true' if the value of the parameter n is even?
+A) (n) -> (n % 2) != 0
+B) (n) -> (n % 2) == 0
+C) () -> (n % 2) == 0
+D) (n % 2) -> (n) == 0
+Do you know the answer (a/b/c/d)?
+2nd
+
+You entered: (n) -> (n % 2) == 0
+That's correct!
+
+Q61: Can a subclass reference variable be assigned to a superclass reference variable?
+A) Maybe
+B) No
+C) Yes
+D) abstract classes only
+Do you know the answer (a/b/c/d)?
+y
+
+You entered: Yes
+That's correct!
+
+Q62: What is the purpose of the lambda operator (->) in Java lambda expressions?
+A) It specifies the required parameters of an expression
+B) It converts an expression to a method with a name
+C) Divides the expression into parameter list and lambda body
+D) It indicates a constant value in expression
+Do you know the answer (a/b/c/d)?
+3r dddd
+
+You entered: Divides the expression into parameter list and lambda body
+That's correct!
+
+Q63: In what order are the constructors executed when a class hierarchy is created?
+A) From subclass to superclass
+B) From superclass to subclass
+C) Any random order
+D) They do not execute in a class hierarchy
+Do you know the answer (a/b/c/d)?
+from SUPerclass to subclass
+
+You entered: From superclass to subclass
+That's correct!
+
+Q64: Can an abstract class be instantiated directly with the new operator in Java?
+A) Yes
+B) No
+C) I'm not sure
+D) Maybe
+Do you know the answer (a/b/c/d)?
+two
+
+You entered: No
+That's correct!
+
+Q65: What is the primary purpose of JDBC in Java?
+A) To create web pages
+B) To connect Java applications to databases
+C) To compile Java code
+D) To generate user interfaces
+Do you know the answer (a/b/c/d)?
+b
+
+You entered: To connect Java applications to databases
+That's correct!
+
+Q66: Which of the following is required to set up PostgreSQL for JDBC?
+A) Installing JDBC UI plugin
+B) Creating a new Java SDK
+C) Installing PostgreSQL and setting up the database
+D) Writing SQL code in JavaScript
+Do you know the answer (a/b/c/d)?
+c
+
+You entered: Installing PostgreSQL and setting up the database
+That's correct!
+
+Q67: What is the correct order of steps in JDBC programming?
+A) Create Statement -> Load Driver -> Execute Query -> Close Connection
+B) Load Driver -> Establish Connection -> Create Statement -> Execute Query -> Close Connection
+C) Execute Query -> Load Driver -> Create Statement -> Close Connection
+D) Load Driver -> Execute Query -> Close Connection -> Create Statement
+Do you know the answer (a/b/c/d)?
+Load Driver -> Establish COnnection -> Create Statement -> Exectute Query -> close connection
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: Load Driver -> Establish Connection -> Create Statement -> Execute Query -> Close Connection
+
+Q68: Which external file is needed to connect PostgreSQL with Java using JDBC?
+A) jdbc-utils.jar
+B) pgadmin.jar
+C) mysql-connector.jar
+D) postgresql-<version>.jar
+Do you know the answer (a/b/c/d)?
+4444
+
+You entered: postgresql-<version>.jar
+That's correct!
+
+Q69: Which method is used to establish a connection between Java and the database?
+A) Driver.connect()
+B) DriverManager.getConnection()
+C) Connection.create()
+D) SQL.connect()
+Do you know the answer (a/b/c/d)?
+DriverManager.getconnection()
+
+You entered: DriverManager.getConnection()
+That's correct!
+
+Q70: Which JDBC interface is used to execute SQL queries and retrieve results?
+A) ResultSet
+B) Statement
+C) Connection
+D) DriverManager
+Do you know the answer (a/b/c/d)?
+second
+
+You entered: Statement
+That's correct!
+
+Q71: What does ResultSet in JDBC represent?
+A) A database connection
+B) An SQL statement
+C) A set of database drivers
+D) A table of data representing the result of a query
+Do you know the answer (a/b/c/d)?
+fourth
+
+You entered: A table of data representing the result of a query
+That's correct!
+
+Q72: Which CRUD operation does executeUpdate() typically support in JDBC?
+A) INSERT, UPDATE, DELETE
+B) SELECT
+C) CONNECT
+D) EXECUTE
+Do you know the answer (a/b/c/d)?
+a
+
+You entered: INSERT, UPDATE, DELETE
+That's correct!
+
+Q73: Why is using Statement in JDBC considered risky?
+A) It cannot execute SQL queries
+B) It only works with PostgreSQL
+C) It is vulnerable to SQL injection attacks
+D) It is deprecated in newer JDBC versions
+Do you know the answer (a/b/c/d)?
+d
+
+You entered: It is deprecated in newer JDBC versions
+Oh-ooh! You got it wrong >w' _ 'w<
+The correct answer is: It is vulnerable to SQL injection attacks
+
+Q74: What is the main benefit of using PreparedStatement over Statement?
+A) Easier syntax
+B) It reduces network traffic
+C) It prevents SQL injection and improves performance
+D) It improves GUI rendering
+Do you know the answer (a/b/c/d)?
+c
+
+You entered: It prevents SQL injection and improves performance
+That's correct!
+
+Q75: Do you know, what's the output? [Hint: staticA]
+
+class A {
+        public void run() {
+                System.out.println("Run is running");
+        }
+}
+
+class Outer {
+        staticA obj=new A(){};
+        public static void main(String[] args) {
+                obj.run();
+        }
+}
+
+A) No output
+B) Run is running
+C) Run-time error
+D) Compile-time error
+Do you know the answer (a/b/c/d)?
+d
+
+You entered: Compile-time error
+That's correct!
+
+Q76: Which format specifier is used to print a double value in Java?
+A) %d
+B) %f
+C) %lf
+D) %s
+Do you know the answer (a/b/c/d)?
+%f
+
+You entered: %f
+That's correct!
+
+Q77: What is the output of the code snippet?
+
+interface MyCode{
+        double myScore();
+}
+
+public class Main{
+        public static void main(String[] args) {
+                MyCode myScore = () -> 99;
+                System.out.printf("%d", myScore.myScore());
+                System.out.print(myScore.myScore());
+        }
+}
+
+A) 9999
+B) 9999.0
+C) Run-time error
+D) Compile-time error
+Do you know the answer (a/b/c/d)?
+c
+
+You entered: Run-time error
+That's correct!
+
+Q78: If we replace %d with %.0f in the previous question, what is the output?
+
+interface MyCode{
+        double myScore();
+}
+
+public class Main{
+        public static void main(String[] args) {
+                MyCode myScore = () -> 99;
+                System.out.printf("%.0f", myScore.myScore());
+                System.out.print(myScore.myScore());
+        }
+}
+
+A) 9999
+B) 9999.0
+C) Run-time error
+D) Compile-time error
+Do you know the answer (a/b/c/d)?
+b
+
+You entered: 9999.0
+That's correct!
+
+Final Score: 67 out of 78.
+Percentage: 85.90%
+
+Nice!
+
+Do you want to play again (y/n)?: y
+
+Q1: Which keyword is used to define a class in Java?
+A) interface
+B) enum
+C) class
+D) method
+Do you know the answer (a/b/c/d)?
+c
+
+You entered: class
+That's correct!
+
+Q2: Java is primarily which type of programming language?
+A) Functional
+B) Procedural
+C) Object-Oriented
+D) Logical
+Do you know the answer (a/b/c/d)?
+c
+
+You entered: Object-Oriented
+That's correct!
+
+Q3: Which keyword is used for defining an integer variable in Java?
+A) Int
+B) num
+C) digit
+D) int
+Do you know the answer (a/b/c/d)?
+d
+
+You entered: int
+That's correct!
+
+Q4: Which component of Java is responsible for running bytecode?
+A) JRE
+B) JVM
+C) JDK
+D) JavaC
+Do you know the answer (a/b/c/d)?
+b
+
+You entered: JVM
+That's correct!
+
+Q5: Which method serves as the entry point of a Java program?
+A) start
+B) run
+C) main
+D) execute
+Do you know the answer (a/b/c/d)?
+c
+
+You entered: main
+That's correct!
+
+Q6: Which method is used to add a new line character at the end of the output in the console?
+A) print()
+B) printf()
+C) println()
+D) log()
+Do you know the answer (a/b/c/d)?
+c
+
+You entered: println()
+That's correct!
+
+Q7: Is Java a Strictly Typed Language?
+A) Yes
+B) No
+C) Maybe
+D) There is no such thing
+Do you know the answer (a/b/c/d)?
+a
+
+You entered: Yes
+That's correct!
+
+Q8: What kind of error will be thrown if the main method is not found in the Java program?
+A) Semantic Error
+B) Logical Error
+C) Runtime Error
+D) Compile Error
+Do you know the answer (a/b/c/d)?
+c
+
+You entered: Runtime Error
+That's correct!
+
+Q9: Which of the following is the valid way to represent a long literal in Java?
+A) 123l
+B) 0b1010L
+C) 123L
+D) All of the above
+Do you know the answer (a/b/c/d)?
+d
+
+You entered: All of the above
+That's correct!
+
+Q10: What do you mean by type promotion in Java?
+A) Conversion of data from lower to higher data types
+B) Conversion of data from higher to lower data types
+C) Conversion of data from string type to other data types
+D) Conversion of data from object data types to primitive data types
+Do you know the answer (a/b/c/d)?
+a
+
+You entered: Conversion of data from lower to higher data types
+That's correct!
+
+Q11: Choose an invalid way to declare a character variable in Java.
+A) char c = 'a'
+B) char c = "a"
+C) char c = 97
+D) char c = '\u0061'
+Do you know the answer (a/b/c/d)?
+b
+
+You entered: char c = "a"
+That's correct!
+
+Q12: What is the default value assigned to a variable of boolean type?
+A) True
+B) False
+C) 0
+D) 1
+Do you know the answer (a/b/c/d)?
+b
+
+You entered: False
+That's correct!
+
+Q13: What is the result of the following code snippet?
+
+class Main {
+        public static void main(String[] args) {
+                char ch = 'a';
+                char result = (char) (ch + 1);
+                System.out.println(result);
+        }
+}
+
+A) a
+B) b
+C) 98
+D) Compilation Error
+Do you know the answer (a/b/c/d)?
+b
+
+You entered: b
+That's correct!
+
+Q14: What is the result of the following code snippet?
+
+class Main {
+        public static void main(String[] args) {
+                byte b1=5,b2=6;
+                byte b3=(byte)(b1+b2);
+                System.out.println(b3);
+        }
+}
+
+A) 11
+B) 5
+C) Run-time error
+D) Compile-time error
+Do you know the answer (a/b/c/d)?
+a
+
+You entered: 11
+That's correct!
+
+Q15: What does a high-order bit represent for an integer?
+A) sign of integer
+B) magnitude of integer
+C) binary number
+D) nonnegative number
+Do you know the answer (a/b/c/d)?
+a
+
+You entered: sign of integer
+That's correct!
+
+Q16: What is the result of the following expression: !(true || false)?
+A) true
+B) false
+C) Error
+D) 0
+Do you know the answer (a/b/c/d)?
+b
+
+You entered: false
+That's correct!
+
+Q17: What will be the value of variables 'a' and 'b' after the execution of the given code?
+
+class Main {
+        public static void main(String[] args) {
+                int a, b;
+                a=b=10;
+                System.out.println(a);
+                System.out.println(b);
+        }
+}
+
+A) compile time error
+B) runtime error
+C) a=0 and b=10
+D) a=10 and b=10
+Do you know the answer (a/b/c/d)?
+d
+
+You entered: a=10 and b=10
+That's correct!
+
+Q18: Predict the output of the following code:
+
+class Main {
+        public static void main(String[] args) {
+                int a = 3;
+                int b = 6;
+                int result = (~a & b) | (a & ~b);
+                System.out.println(result);
+        }
+}
+
+A) 5
+B) 7
+C) 0
+D) 1
+Do you know the answer (a/b/c/d)?
+a
+
+You entered: 5
+That's correct!
+
+Q19: Which conditional statement is used to check multiple possible values of a variable?
+A) if-else
+B) switch
+C) ternary operator
+D) nested if-else
+Do you know the answer (a/b/c/d)?
+b
+
+You entered: switch
+That's correct!
+
+Q20: What is the output of the following program in Java?
+
+if(1) {
+        System.out.println("Aloo Bhujiya");
+}
+
+A) Aloo Bhujiya
+B) 1
+C) Compile-time error
+D) Run-time error
+Do you know the answer (a/b/c/d)?
+c
+
+You entered: Compile-time error
+That's correct!
+
+Q21: Predict the output of the code:
+
+int x = 2;
+switch(x) {
+        case 1:
+
+        case 2:
+
+        case 3:
+
+                System.out.println("Fly");
+                break;
+        case 4:
+
+                System.out.println("Swim");
+}
+
+A) Compile-time error
+B) Fly
+C) Swim
+D) No Output
+Do you know the answer (a/b/c/d)?
+b
+
+You entered: Fly
+That's correct!
+
+Q22: What will be the value of variables 'x' and 'y' from the given code?
+
+int x = 5;
+int y = 10;
+int z = (x++ > 5 && y-- < 10) ? x-- : y;
+
+A) x=7 and y=10
+B) x=6 and y=10
+C) x=5 and y=9
+D) x=5 and y=10
+Do you know the answer (a/b/c/d)?
+b
+
+You entered: x=6 and y=10
+That's correct!
+
+Q23: Which loop executes the code block based on a condition that is checked before each iteration in Java?
+A) while loop
+B) for loop
+C) do-while loop
+D) Both a and b
+Do you know the answer (a/b/c/d)?
+d
+
+You entered: Both a and b
+That's correct!
+
+Q24: What is the type of the do-while loop in terms of control flow?
+A) Entry-controlled loop
+B) Exit-controlled loop
+C) Infinite loop
+D) Nested loop
+Do you know the answer (a/b/c/d)?
+b
+
+You entered: Exit-controlled loop
+That's correct!
+
+Q25: What will be the output of the given code snippet?
+
+public static void main(String[] args) {
+        int i, j;
+        i = 100;
+        j=300;
+        while(++i < --j);
+        System.out.println(i);
+}
+
+A) 150
+B) 100
+C) 200
+D) Compile-time error
+Do you know the answer (a/b/c/d)?
+c
+
+You entered: 200
+That's correct!
+
+Q26: Does the 'new' keyword allocate memory for an object during runtime in Java?
+A) Yes
+B) No
+C) It doesn't exist
+D) new is not a keyword
+Do you know the answer (a/b/c/d)?
+y
+
+You entered: Yes
+That's correct!
+
+Q27: Does the main() method be overloaded in Java?
+A) Yes
+B) No
+C) main is not a method
+D) Only in special cases
+Do you know the answer (a/b/c/d)?
+y
+
+You entered: Yes
+That's correct!
+
+Q28: What will happen if a local variable has the same name as an instance variable within a class?
+A) Local variable hides the instance variable
+B) Instance variable hides the local variable
+C) Local variable executes after instance variable
+D) A compile-time error will occur
+Do you know the answer (a/b/c/d)?
+a
+
+You entered: Local variable hides the instance variable
+That's correct!
+
+Q29: Which term is used when we can define two or more methods of the same name within the same class?
+A) Method overriding
+B) Method overloading
+C) Method hiding
+D) Method construction
+Do you know the answer (a/b/c/d)?
+b
+
+You entered: Method overloading
+That's correct!
+
+Q30: What will be printed after the execution of the given code?
+
+class Message {
+        public void printMessage(int message) {
+                        System.out.println("Message primitive: " + message);
+        }
+
+        public void printMessage(Integer message) {
+        System.out.println("Message object: " + message);
+        }
+}
+
+class Main {
+        public static void main(String[] ars) {
+                int a = 3;
+                Message ob=new Message();
+                ob.printMessage(5);
+        }
+}
+
+A) Message primitive: 5
+B) Message object: 5
+C) Compile-time error
+D) Run-time error
+Do you know the answer (a/b/c/d)?
+a
+
+You entered: Message primitive: 5
+That's correct!
+
+Q31: Where are instance variables allocated in memory?
+A) Stack
+B) Heap
+C) Queue
+D) Array
+Do you know the answer (a/b/c/d)?
+b
+
+You entered: Heap
+That's correct!
+
+Q32: Which subsystem of the JVM is responsible for loading class files?
+A) ClassLoader
+B) JVM Loader
+C) Bytecode Loader
+D) Run-time Loader
+Do you know the answer (a/b/c/d)?
+a
+
+You entered: ClassLoader
+That's correct!
+
+Q33: What does arr[arr.length-1].length represents in a multidimensional array?Length of the longest column in the array
+A) Length of the longest column in the array
+B) Number of columns in the array
+C) Total number of elements in the array
+D) Length of the last row in the array
+Do you know the answer (a/b/c/d)?
+d
+
+You entered: Length of the last row in the array
+That's correct!
+
+Q34: What will be printed after the execution of the given code?
+
+class Main{
+        public static void main(String[] args) {
+                String password[] = { "XY01", "XY02", "XY03", "XY04"};
+                String result =" ";
+                for(int i = password.length-1; i>=2; i--) {
+                        result = result + password[i];
+                }
+                System.out.println(result); }
+}
+
+A) XY01XY02
+B) XY03XY02
+C) XY04XY03
+D) Run-time error
+Do you know the answer (a/b/c/d)?
+c
+
+You entered: XY04XY03
+That's correct!
+
+Q35: Which access modifier is used to access members of an inherited class when two classes are in different packages?
+A) private
+B) default
+C) protected
+D) static
+Do you know the answer (a/b/c/d)?
+c
+
+You entered: protected
+That's correct!
+
+Q36: Which principle emphasizes the binding of data and methods within a class?
+A) Polymorphism
+B) Encapsulation
+C) Abstraction
+D) Inheritance
+Do you know the answer (a/b/c/d)?
+b
+
+You entered: Encapsulation
+That's correct!
+
+Q37: Can the value of a variable be changed if it is initialized with the 'final' keyword?
+A) Yes
+B) Sometimes
+C) No
+D) Only once
+Do you know the answer (a/b/c/d)?
+n
+
+You entered: No
+That's correct!
+
+Q38: Does the given code defines the valid way to initialize the value to the final variable?
+
+class MyClass {
+        private final int myVariable;
+        {
+                myVariable = 10;
+        }
+}
+
+A) No
+B) Yes
+C) Compile-time error
+D) Run-time error
+Do you know the answer (a/b/c/d)?
+b
+
+You entered: Yes
+That's correct!
+
+Q39: Which keyword is used to define a class member that can be accessed without reference to any object?
+A) private
+B) public
+C) final
+D) static
+Do you know the answer (a/b/c/d)?
+d
+
+You entered: static
+That's correct!
+
+Q40: Which keyword is used to achieve inheritance in Java?
+A) final
+B) extends
+C) this
+D) implements
+Do you know the answer (a/b/c/d)?
+b
+
+You entered: extends
+That's correct!
+
+Q41: Can a class be a superclass of itself in Java?
+A) Yes
+B) No
+C) I don't know
+D) Java allows circular reference
+Do you know the answer (a/b/c/d)?
+n
+
+You entered: No
+That's correct!
+
+Q42: Is method shadowing or method hiding possible with the private method?
+A) Yes
+B) No
+C) I don't know
+D) There is no concept as method shadowing
+Do you know the answer (a/b/c/d)?
+y
+
+You entered: Yes
+That's correct!
+
+Q43: What is the return type of overridden methods?
+A) Covariant Return Types
+B) Different from a superclass
+C) void only
+D) Not specified
+Do you know the answer (a/b/c/d)?
+a
+
+You entered: Covariant Return Types
+That's correct!
+
+Q44: What interface is implemented by the String, StringBuffer, and StringBuilder classes?
+A) StringSequence
+B) CharSequence
+C) StringManipulator
+D) CharSequenceBuffer
+Do you know the answer (a/b/c/d)?
+b
+
+You entered: CharSequence
+That's correct!
+
+Q45: What will be the output of the given code snippet?
+
+char chars[] = {'a', 'b', 'c', 'd', 'e', 'f'};
+String str = new String(chars,1,3);
+System.out.println(str);
+
+A) ['b', 'c', 'd']
+B) ['b', 'c', 'd', 'e']
+C) bcd
+D) bcde
+Do you know the answer (a/b/c/d)?
+c
+
+You entered: bcd
+That's correct!
+
+Q46: Which constructor of StringBuffer reserves room for 16 characters without reallocation?
+A) StringBuffer()
+B) StringBuffer(int size)
+C) StringBuffer(String str)
+D) StringBuffer(CharSequence chars)
+Do you know the answer (a/b/c/d)?
+a
+
+You entered: StringBuffer()
+That's correct!
+
+Q47: Which class can be used when multiple threads are involved and thread-safety is required?
+A) StringBuffer
+B) StringBuilder
+C) Both can be used
+D) None of the above
+Do you know the answer (a/b/c/d)?
+a
+
+You entered: StringBuffer
+That's correct!
+
+Q48: What will be the value of the s1 and s2 variables after the execution of the following code?
+
+class Main{
+        public static void main(String[] args) {
+                char ch [] = {'T', 'e', 'l', 'u', 's', 'k', 'o'};
+                String st1 = new String(ch);
+                String st2 = new String(st1);
+                System.out.println(st1);
+                System.out.println(st2);
+
+A) Telusko and null
+B) Telusko and st1
+C) Telusko and Telusko
+D) Telusko and ['T', 'e', 'l', 'u', 's', 'k', 'o']
+Do you know the answer (a/b/c/d)?
+c
+
+You entered: Telusko and Telusko
+That's correct!
+
+Q49: Determine the capacity of the StringBuffer before and after the use of trimToSize() method in the given code:
+
+StringBuffer sb = new StringBuffer("Java Code");
+System.out.println(sb.capacity());
+sb.trimToSize();
+System.out.println(sb.capacity());
+
+A) 16 and 16
+B) 16 and 9
+C) 25 and 9
+D) 25 and 16
+Do you know the answer (a/b/c/d)?
+c
+
+You entered: 25 and 9
+That's correct!
+
+Q50: What Java keyword is employed for specifying a default method within a Java interface?
+A) new
+B) override
+C) implements
+D) default
+Do you know the answer (a/b/c/d)?
+d
+
+You entered: default
+That's correct!
+
+Q51: When implementing a Java interface, methods must possess the following access modifier:
+A) public
+B) abstract
+C) private
+D) protected
+Do you know the answer (a/b/c/d)?
+a
+
+You entered: public
+That's correct!
+
+Q52: By default, the methods enclosed within a Java interface are characterized as:
+A) abstract and public
+B) synchronized and void
+C) private and static
+D) final and protected
+Do you know the answer (a/b/c/d)?
+a
+
+You entered: abstract and public
+That's correct!
+
+Q53: What is the output of the following code snippet?
+
+interface MyCode{
+        double myScore();
+}
+
+public class Main{
+        public static void main(String[] args) {
+                MyCode myScore;
+                myCode = () -> 87;
+                System.out.println(MyCode.myScore());
+        }
+}
+
+A) 87
+B) 87.0
+C) Run-time error
+D) Compile-time error
+Do you know the answer (a/b/c/d)?
+d
+
+You entered: Compile-time error
+That's correct!
+
+Q54: What is the output of the code?
+
+public class Main{
+        int a=5;
+        A obj =()->{ System.out.println(this.a);};
+        public static void main(String[] args) {
+                Main ob=new Main();
+                ob.obj.run();
+        }
+}
+
+interface A {
+         public void run();
+}
+
+A) 5
+B) 0
+C) Run-time error
+D) Compile-time error
+Do you know the answer (a/b/c/d)?
+a
+
+You entered: 5
+That's correct!
+
+Q55: Comment on the statement: "The method defined by a lambda expression does not have a name."
+A) True
+B) False
+C) Not a valid question
+D) Skip
+Do you know the answer (a/b/c/d)?
+b
+
+You entered: False
+That's correct!
+
+Q56: What is the output of the code?
+
+class A {
+        public void run() {
+                System.out.println("I am running");
+        }
+}
+
+class Outer {
+        static A obj=new A(){};
+        public static void main(String[] args) {
+                obj.run();
+        }
+}
+
+A) No output
+B) I am running
+C) Run-time error
+D) Compile-time error
+Do you know the answer (a/b/c/d)?
+b
+
+You entered: I am running
+That's correct!
+
+Q57: What does Inner classes promote in Java?
+A) Composition and aggregation
+B) Inheritance
+C) Polymorphism
+D) Abstraction
+Do you know the answer (a/b/c/d)?
+a
+
+You entered: Composition and aggregation
+That's correct!
+
+Q58: How do you access the method "m1()" of the inner class inside the main method?
+
+class Outer {
+        class Inner {
+                public void m1() {
+                        System.out.println("inner class instance m1()");}
+        }
+public static void main(String[] args) {}
+}
+
+A) Outer.Inner i = new Outer().Inner();
+B) Inner i = new Outer().new Inner();
+C) Outer.Inner i = new Outer().new Inner();
+D) new Outer().new Inner().m1();
+Do you know the answer (a/b/c/d)?
+d
+
+You entered: new Outer().new Inner().m1();
+That's correct!
+
+Q59: What is the key requirement for an interface to be considered a functional interface?
+A) It must define at least one abstract method
+B) It must define multiple abstract methods
+C) It must define only one abstract method
+D) It must define a method named "run"
+Do you know the answer (a/b/c/d)?
+c
+
+You entered: It must define only one abstract method
+That's correct!
+
+Q60: Which of the given expressions returns 'true' if the value of the parameter n is even?
+A) (n) -> (n % 2) != 0
+B) (n) -> (n % 2) == 0
+C) () -> (n % 2) == 0
+D) (n % 2) -> (n) == 0
+Do you know the answer (a/b/c/d)?
+b
+
+You entered: (n) -> (n % 2) == 0
+That's correct!
+
+Q61: Can a subclass reference variable be assigned to a superclass reference variable?
+A) Maybe
+B) No
+C) Yes
+D) abstract classes only
+Do you know the answer (a/b/c/d)?
+y
+
+You entered: Yes
+That's correct!
+
+Q62: What is the purpose of the lambda operator (->) in Java lambda expressions?
+A) It specifies the required parameters of an expression
+B) It converts an expression to a method with a name
+C) Divides the expression into parameter list and lambda body
+D) It indicates a constant value in expression
+Do you know the answer (a/b/c/d)?
+c
+
+You entered: Divides the expression into parameter list and lambda body
+That's correct!
+
+Q63: In what order are the constructors executed when a class hierarchy is created?
+A) From subclass to superclass
+B) From superclass to subclass
+C) Any random order
+D) They do not execute in a class hierarchy
+Do you know the answer (a/b/c/d)?
+b
+
+You entered: From superclass to subclass
+That's correct!
+
+Q64: Can an abstract class be instantiated directly with the new operator in Java?
+A) Yes
+B) No
+C) I'm not sure
+D) Maybe
+Do you know the answer (a/b/c/d)?
+n
+
+You entered: No
+That's correct!
+
+Q65: What is the primary purpose of JDBC in Java?
+A) To create web pages
+B) To connect Java applications to databases
+C) To compile Java code
+D) To generate user interfaces
+Do you know the answer (a/b/c/d)?
+b
+
+You entered: To connect Java applications to databases
+That's correct!
+
+Q66: Which of the following is required to set up PostgreSQL for JDBC?
+A) Installing JDBC UI plugin
+B) Creating a new Java SDK
+C) Installing PostgreSQL and setting up the database
+D) Writing SQL code in JavaScript
+Do you know the answer (a/b/c/d)?
+c
+
+You entered: Installing PostgreSQL and setting up the database
+That's correct!
+
+Q67: What is the correct order of steps in JDBC programming?
+A) Create Statement -> Load Driver -> Execute Query -> Close Connection
+B) Load Driver -> Establish Connection -> Create Statement -> Execute Query -> Close Connection
+C) Execute Query -> Load Driver -> Create Statement -> Close Connection
+D) Load Driver -> Execute Query -> Close Connection -> Create Statement
+Do you know the answer (a/b/c/d)?
+b
+
+You entered: Load Driver -> Establish Connection -> Create Statement -> Execute Query -> Close Connection
+That's correct!
+
+Q68: Which external file is needed to connect PostgreSQL with Java using JDBC?
+A) jdbc-utils.jar
+B) pgadmin.jar
+C) mysql-connector.jar
+D) postgresql-<version>.jar
+Do you know the answer (a/b/c/d)?
+d
+
+You entered: postgresql-<version>.jar
+That's correct!
+
+Q69: Which method is used to establish a connection between Java and the database?
+A) Driver.connect()
+B) DriverManager.getConnection()
+C) Connection.create()
+D) SQL.connect()
+Do you know the answer (a/b/c/d)?
+b
+
+You entered: DriverManager.getConnection()
+That's correct!
+
+Q70: Which JDBC interface is used to execute SQL queries and retrieve results?
+A) ResultSet
+B) Statement
+C) Connection
+D) DriverManager
+Do you know the answer (a/b/c/d)?
+b
+
+You entered: Statement
+That's correct!
+
+Q71: What does ResultSet in JDBC represent?
+A) A database connection
+B) An SQL statement
+C) A set of database drivers
+D) A table of data representing the result of a query
+Do you know the answer (a/b/c/d)?
+d
+
+You entered: A table of data representing the result of a query
+That's correct!
+
+Q72: Which CRUD operation does executeUpdate() typically support in JDBC?
+A) INSERT, UPDATE, DELETE
+B) SELECT
+C) CONNECT
+D) EXECUTE
+Do you know the answer (a/b/c/d)?
+a
+
+You entered: INSERT, UPDATE, DELETE
+That's correct!
+
+Q73: Why is using Statement in JDBC considered risky?
+A) It cannot execute SQL queries
+B) It only works with PostgreSQL
+C) It is vulnerable to SQL injection attacks
+D) It is deprecated in newer JDBC versions
+Do you know the answer (a/b/c/d)?
+c
+
+You entered: It is vulnerable to SQL injection attacks
+That's correct!
+
+Q74: What is the main benefit of using PreparedStatement over Statement?
+A) Easier syntax
+B) It reduces network traffic
+C) It prevents SQL injection and improves performance
+D) It improves GUI rendering
+Do you know the answer (a/b/c/d)?
+c
+
+You entered: It prevents SQL injection and improves performance
+That's correct!
+
+Q75: Do you know, what's the output? [Hint: staticA]
+
+class A {
+        public void run() {
+                System.out.println("Run is running");
+        }
+}
+
+class Outer {
+        staticA obj=new A(){};
+        public static void main(String[] args) {
+                obj.run();
+        }
+}
+
+A) No output
+B) Run is running
+C) Run-time error
+D) Compile-time error
+Do you know the answer (a/b/c/d)?
+d
+
+You entered: Compile-time error
+That's correct!
+
+Q76: Which format specifier is used to print a double value in Java?
+A) %d
+B) %f
+C) %lf
+D) %s
+Do you know the answer (a/b/c/d)?
+b
+
+You entered: %f
+That's correct!
+
+Q77: What is the output of the code snippet?
+
+interface MyCode{
+        double myScore();
+}
+
+public class Main{
+        public static void main(String[] args) {
+                MyCode myScore = () -> 99;
+                System.out.printf("%d", myScore.myScore());
+                System.out.print(myScore.myScore());
+        }
+}
+
+A) 9999
+B) 9999.0
+C) Run-time error
+D) Compile-time error
+Do you know the answer (a/b/c/d)?
+c
+
+You entered: Run-time error
+That's correct!
+
+Q78: If we replace %d with %.0f in the previous question, what is the output?
+
+interface MyCode{
+        double myScore();
+}
+
+public class Main{
+        public static void main(String[] args) {
+                MyCode myScore = () -> 99;
+                System.out.printf("%.0f", myScore.myScore());
+                System.out.print(myScore.myScore());
+        }
+}
+
+A) 9999
+B) 9999.0
+C) Run-time error
+D) Compile-time error
+Do you know the answer (a/b/c/d)?
+b
+
+You entered: 9999.0
+That's correct!
+
+Final Score: 78 out of 78.
+Percentage: 100.00%
+
+Brilliant! You aced it!
+
+Do you want to play again (y/n)?: hello hi
+
+Do you want to play again (y/n)?: gugu gaga
+
+Do you want to play again (y/n)?: y
+
+Q1: Which keyword is used to define a class in Java?
+A) interface
+B) enum
+C) class
+D) method
+Do you know the answer (a/b/c/d)?
+
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: class
+
+Q2: Java is primarily which type of programming language?
+A) Functional
+B) Procedural
+C) Object-Oriented
+D) Logical
+Do you know the answer (a/b/c/d)?
+
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: Object-Oriented
+
+Q3: Which keyword is used for defining an integer variable in Java?
+A) Int
+B) num
+C) digit
+D) int
+Do you know the answer (a/b/c/d)?
+
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: int
+
+Q4: Which component of Java is responsible for running bytecode?
+A) JRE
+B) JVM
+C) JDK
+D) JavaC
+Do you know the answer (a/b/c/d)?
+
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: JVM
+
+Q5: Which method serves as the entry point of a Java program?
+A) start
+B) run
+C) main
+D) execute
+Do you know the answer (a/b/c/d)?
+
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: main
+
+Q6: Which method is used to add a new line character at the end of the output in the console?
+A) print()
+B) printf()
+C) println()
+D) log()
+Do you know the answer (a/b/c/d)?
+
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: println()
+
+Q7: Is Java a Strictly Typed Language?
+A) Yes
+B) No
+C) Maybe
+D) There is no such thing
+Do you know the answer (a/b/c/d)?
+
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: Yes
+
+Q8: What kind of error will be thrown if the main method is not found in the Java program?
+A) Semantic Error
+B) Logical Error
+C) Runtime Error
+D) Compile Error
+Do you know the answer (a/b/c/d)?
+
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: Runtime Error
+
+Q9: Which of the following is the valid way to represent a long literal in Java?
+A) 123l
+B) 0b1010L
+C) 123L
+D) All of the above
+Do you know the answer (a/b/c/d)?
+
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: All of the above
+
+Q10: What do you mean by type promotion in Java?
+A) Conversion of data from lower to higher data types
+B) Conversion of data from higher to lower data types
+C) Conversion of data from string type to other data types
+D) Conversion of data from object data types to primitive data types
+Do you know the answer (a/b/c/d)?
+
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: Conversion of data from lower to higher data types
+
+Q11: Choose an invalid way to declare a character variable in Java.
+A) char c = 'a'
+B) char c = "a"
+C) char c = 97
+D) char c = '\u0061'
+Do you know the answer (a/b/c/d)?
+
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: char c = "a"
+
+Q12: What is the default value assigned to a variable of boolean type?
+A) True
+B) False
+C) 0
+D) 1
+Do you know the answer (a/b/c/d)?
+
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: False
+
+Q13: What is the result of the following code snippet?
+
+class Main {
+        public static void main(String[] args) {
+                char ch = 'a';
+                char result = (char) (ch + 1);
+                System.out.println(result);
+        }
+}
+
+A) a
+B) b
+C) 98
+D) Compilation Error
+Do you know the answer (a/b/c/d)?
+
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: b
+
+Q14: What is the result of the following code snippet?
+
+class Main {
+        public static void main(String[] args) {
+                byte b1=5,b2=6;
+                byte b3=(byte)(b1+b2);
+                System.out.println(b3);
+        }
+}
+
+A) 11
+B) 5
+C) Run-time error
+D) Compile-time error
+Do you know the answer (a/b/c/d)?
+
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: 11
+
+Q15: What does a high-order bit represent for an integer?
+A) sign of integer
+B) magnitude of integer
+C) binary number
+D) nonnegative number
+Do you know the answer (a/b/c/d)?
+
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: sign of integer
+
+Q16: What is the result of the following expression: !(true || false)?
+A) true
+B) false
+C) Error
+D) 0
+Do you know the answer (a/b/c/d)?
+
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: false
+
+Q17: What will be the value of variables 'a' and 'b' after the execution of the given code?
+
+class Main {
+        public static void main(String[] args) {
+                int a, b;
+                a=b=10;
+                System.out.println(a);
+                System.out.println(b);
+        }
+}
+
+A) compile time error
+B) runtime error
+C) a=0 and b=10
+D) a=10 and b=10
+Do you know the answer (a/b/c/d)?
+
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: a=10 and b=10
+
+Q18: Predict the output of the following code:
+
+class Main {
+        public static void main(String[] args) {
+                int a = 3;
+                int b = 6;
+                int result = (~a & b) | (a & ~b);
+                System.out.println(result);
+        }
+}
+
+A) 5
+B) 7
+C) 0
+D) 1
+Do you know the answer (a/b/c/d)?
+
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: 5
+
+Q19: Which conditional statement is used to check multiple possible values of a variable?
+A) if-else
+B) switch
+C) ternary operator
+D) nested if-else
+Do you know the answer (a/b/c/d)?
+
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: switch
+
+Q20: What is the output of the following program in Java?
+
+if(1) {
+        System.out.println("Aloo Bhujiya");
+}
+
+A) Aloo Bhujiya
+B) 1
+C) Compile-time error
+D) Run-time error
+Do you know the answer (a/b/c/d)?
+
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: Compile-time error
+
+Q21: Predict the output of the code:
+
+int x = 2;
+switch(x) {
+        case 1:
+
+        case 2:
+
+        case 3:
+
+                System.out.println("Fly");
+                break;
+        case 4:
+
+                System.out.println("Swim");
+}
+
+A) Compile-time error
+B) Fly
+C) Swim
+D) No Output
+Do you know the answer (a/b/c/d)?
+
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: Fly
+
+Q22: What will be the value of variables 'x' and 'y' from the given code?
+
+int x = 5;
+int y = 10;
+int z = (x++ > 5 && y-- < 10) ? x-- : y;
+
+A) x=7 and y=10
+B) x=6 and y=10
+C) x=5 and y=9
+D) x=5 and y=10
+Do you know the answer (a/b/c/d)?
+
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: x=6 and y=10
+
+Q23: Which loop executes the code block based on a condition that is checked before each iteration in Java?
+A) while loop
+B) for loop
+C) do-while loop
+D) Both a and b
+Do you know the answer (a/b/c/d)?
+
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: Both a and b
+
+Q24: What is the type of the do-while loop in terms of control flow?
+A) Entry-controlled loop
+B) Exit-controlled loop
+C) Infinite loop
+D) Nested loop
+Do you know the answer (a/b/c/d)?
+
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: Exit-controlled loop
+
+Q25: What will be the output of the given code snippet?
+
+public static void main(String[] args) {
+        int i, j;
+        i = 100;
+        j=300;
+        while(++i < --j);
+        System.out.println(i);
+}
+
+A) 150
+B) 100
+C) 200
+D) Compile-time error
+Do you know the answer (a/b/c/d)?
+
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: 200
+
+Q26: Does the 'new' keyword allocate memory for an object during runtime in Java?
+A) Yes
+B) No
+C) It doesn't exist
+D) new is not a keyword
+Do you know the answer (a/b/c/d)?
+
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: Yes
+
+Q27: Does the main() method be overloaded in Java?
+A) Yes
+B) No
+C) main is not a method
+D) Only in special cases
+Do you know the answer (a/b/c/d)?
+
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: Yes
+
+Q28: What will happen if a local variable has the same name as an instance variable within a class?
+A) Local variable hides the instance variable
+B) Instance variable hides the local variable
+C) Local variable executes after instance variable
+D) A compile-time error will occur
+Do you know the answer (a/b/c/d)?
+
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: Local variable hides the instance variable
+
+Q29: Which term is used when we can define two or more methods of the same name within the same class?
+A) Method overriding
+B) Method overloading
+C) Method hiding
+D) Method construction
+Do you know the answer (a/b/c/d)?
+
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: Method overloading
+
+Q30: What will be printed after the execution of the given code?
+
+class Message {
+        public void printMessage(int message) {
+                        System.out.println("Message primitive: " + message);
+        }
+
+        public void printMessage(Integer message) {
+        System.out.println("Message object: " + message);
+        }
+}
+
+class Main {
+        public static void main(String[] ars) {
+                int a = 3;
+                Message ob=new Message();
+                ob.printMessage(5);
+        }
+}
+
+A) Message primitive: 5
+B) Message object: 5
+C) Compile-time error
+D) Run-time error
+Do you know the answer (a/b/c/d)?
+
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: Message primitive: 5
+
+Q31: Where are instance variables allocated in memory?
+A) Stack
+B) Heap
+C) Queue
+D) Array
+Do you know the answer (a/b/c/d)?
+
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: Heap
+
+Q32: Which subsystem of the JVM is responsible for loading class files?
+A) ClassLoader
+B) JVM Loader
+C) Bytecode Loader
+D) Run-time Loader
+Do you know the answer (a/b/c/d)?
+
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: ClassLoader
+
+Q33: What does arr[arr.length-1].length represents in a multidimensional array?Length of the longest column in the array
+A) Length of the longest column in the array
+B) Number of columns in the array
+C) Total number of elements in the array
+D) Length of the last row in the array
+Do you know the answer (a/b/c/d)?
+
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: Length of the last row in the array
+
+Q34: What will be printed after the execution of the given code?
+
+class Main{
+        public static void main(String[] args) {
+                String password[] = { "XY01", "XY02", "XY03", "XY04"};
+                String result =" ";
+                for(int i = password.length-1; i>=2; i--) {
+                        result = result + password[i];
+                }
+                System.out.println(result); }
+}
+
+A) XY01XY02
+B) XY03XY02
+C) XY04XY03
+D) Run-time error
+Do you know the answer (a/b/c/d)?
+
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: XY04XY03
+
+Q35: Which access modifier is used to access members of an inherited class when two classes are in different packages?
+A) private
+B) default
+C) protected
+D) static
+Do you know the answer (a/b/c/d)?
+
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: protected
+
+Q36: Which principle emphasizes the binding of data and methods within a class?
+A) Polymorphism
+B) Encapsulation
+C) Abstraction
+D) Inheritance
+Do you know the answer (a/b/c/d)?
+
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: Encapsulation
+
+Q37: Can the value of a variable be changed if it is initialized with the 'final' keyword?
+A) Yes
+B) Sometimes
+C) No
+D) Only once
+Do you know the answer (a/b/c/d)?
+
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: No
+
+Q38: Does the given code defines the valid way to initialize the value to the final variable?
+
+class MyClass {
+        private final int myVariable;
+        {
+                myVariable = 10;
+        }
+}
+
+A) No
+B) Yes
+C) Compile-time error
+D) Run-time error
+Do you know the answer (a/b/c/d)?
+
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: Yes
+
+Q39: Which keyword is used to define a class member that can be accessed without reference to any object?
+A) private
+B) public
+C) final
+D) static
+Do you know the answer (a/b/c/d)?
+
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: static
+
+Q40: Which keyword is used to achieve inheritance in Java?
+A) final
+B) extends
+C) this
+D) implements
+Do you know the answer (a/b/c/d)?
+
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: extends
+
+Q41: Can a class be a superclass of itself in Java?
+A) Yes
+B) No
+C) I don't know
+D) Java allows circular reference
+Do you know the answer (a/b/c/d)?
+
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: No
+
+Q42: Is method shadowing or method hiding possible with the private method?
+A) Yes
+B) No
+C) I don't know
+D) There is no concept as method shadowing
+Do you know the answer (a/b/c/d)?
+
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: Yes
+
+Q43: What is the return type of overridden methods?
+A) Covariant Return Types
+B) Different from a superclass
+C) void only
+D) Not specified
+Do you know the answer (a/b/c/d)?
+
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: Covariant Return Types
+
+Q44: What interface is implemented by the String, StringBuffer, and StringBuilder classes?
+A) StringSequence
+B) CharSequence
+C) StringManipulator
+D) CharSequenceBuffer
+Do you know the answer (a/b/c/d)?
+
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: CharSequence
+
+Q45: What will be the output of the given code snippet?
+
+char chars[] = {'a', 'b', 'c', 'd', 'e', 'f'};
+String str = new String(chars,1,3);
+System.out.println(str);
+
+A) ['b', 'c', 'd']
+B) ['b', 'c', 'd', 'e']
+C) bcd
+D) bcde
+Do you know the answer (a/b/c/d)?
+
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: bcd
+
+Q46: Which constructor of StringBuffer reserves room for 16 characters without reallocation?
+A) StringBuffer()
+B) StringBuffer(int size)
+C) StringBuffer(String str)
+D) StringBuffer(CharSequence chars)
+Do you know the answer (a/b/c/d)?
+
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: StringBuffer()
+
+Q47: Which class can be used when multiple threads are involved and thread-safety is required?
+A) StringBuffer
+B) StringBuilder
+C) Both can be used
+D) None of the above
+Do you know the answer (a/b/c/d)?
+
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: StringBuffer
+
+Q48: What will be the value of the s1 and s2 variables after the execution of the following code?
+
+class Main{
+        public static void main(String[] args) {
+                char ch [] = {'T', 'e', 'l', 'u', 's', 'k', 'o'};
+                String st1 = new String(ch);
+                String st2 = new String(st1);
+                System.out.println(st1);
+                System.out.println(st2);
+
+A) Telusko and null
+B) Telusko and st1
+C) Telusko and Telusko
+D) Telusko and ['T', 'e', 'l', 'u', 's', 'k', 'o']
+Do you know the answer (a/b/c/d)?
+
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: Telusko and Telusko
+
+Q49: Determine the capacity of the StringBuffer before and after the use of trimToSize() method in the given code:
+
+StringBuffer sb = new StringBuffer("Java Code");
+System.out.println(sb.capacity());
+sb.trimToSize();
+System.out.println(sb.capacity());
+
+A) 16 and 16
+B) 16 and 9
+C) 25 and 9
+D) 25 and 16
+Do you know the answer (a/b/c/d)?
+
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: 25 and 9
+
+Q50: What Java keyword is employed for specifying a default method within a Java interface?
+A) new
+B) override
+C) implements
+D) default
+Do you know the answer (a/b/c/d)?
+
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: default
+
+Q51: When implementing a Java interface, methods must possess the following access modifier:
+A) public
+B) abstract
+C) private
+D) protected
+Do you know the answer (a/b/c/d)?
+
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: public
+
+Q52: By default, the methods enclosed within a Java interface are characterized as:
+A) abstract and public
+B) synchronized and void
+C) private and static
+D) final and protected
+Do you know the answer (a/b/c/d)?
+
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: abstract and public
+
+Q53: What is the output of the following code snippet?
+
+interface MyCode{
+        double myScore();
+}
+
+public class Main{
+        public static void main(String[] args) {
+                MyCode myScore;
+                myCode = () -> 87;
+                System.out.println(MyCode.myScore());
+        }
+}
+
+A) 87
+B) 87.0
+C) Run-time error
+D) Compile-time error
+Do you know the answer (a/b/c/d)?
+
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: Compile-time error
+
+Q54: What is the output of the code?
+
+public class Main{
+        int a=5;
+        A obj =()->{ System.out.println(this.a);};
+        public static void main(String[] args) {
+                Main ob=new Main();
+                ob.obj.run();
+        }
+}
+
+interface A {
+         public void run();
+}
+
+A) 5
+B) 0
+C) Run-time error
+D) Compile-time error
+Do you know the answer (a/b/c/d)?
+
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: 5
+
+Q55: Comment on the statement: "The method defined by a lambda expression does not have a name."
+A) True
+B) False
+C) Not a valid question
+D) Skip
+Do you know the answer (a/b/c/d)?
+
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: False
+
+Q56: What is the output of the code?
+
+class A {
+        public void run() {
+                System.out.println("I am running");
+        }
+}
+
+class Outer {
+        static A obj=new A(){};
+        public static void main(String[] args) {
+                obj.run();
+        }
+}
+
+A) No output
+B) I am running
+C) Run-time error
+D) Compile-time error
+Do you know the answer (a/b/c/d)?
+
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: I am running
+
+Q57: What does Inner classes promote in Java?
+A) Composition and aggregation
+B) Inheritance
+C) Polymorphism
+D) Abstraction
+Do you know the answer (a/b/c/d)?
+
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: Composition and aggregation
+
+Q58: How do you access the method "m1()" of the inner class inside the main method?
+
+class Outer {
+        class Inner {
+                public void m1() {
+                        System.out.println("inner class instance m1()");}
+        }
+public static void main(String[] args) {}
+}
+
+A) Outer.Inner i = new Outer().Inner();
+B) Inner i = new Outer().new Inner();
+C) Outer.Inner i = new Outer().new Inner();
+D) new Outer().new Inner().m1();
+Do you know the answer (a/b/c/d)?
+
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: new Outer().new Inner().m1();
+
+Q59: What is the key requirement for an interface to be considered a functional interface?
+A) It must define at least one abstract method
+B) It must define multiple abstract methods
+C) It must define only one abstract method
+D) It must define a method named "run"
+Do you know the answer (a/b/c/d)?
+
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: It must define only one abstract method
+
+Q60: Which of the given expressions returns 'true' if the value of the parameter n is even?
+A) (n) -> (n % 2) != 0
+B) (n) -> (n % 2) == 0
+C) () -> (n % 2) == 0
+D) (n % 2) -> (n) == 0
+Do you know the answer (a/b/c/d)?
+
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: (n) -> (n % 2) == 0
+
+Q61: Can a subclass reference variable be assigned to a superclass reference variable?
+A) Maybe
+B) No
+C) Yes
+D) abstract classes only
+Do you know the answer (a/b/c/d)?
+
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: Yes
+
+Q62: What is the purpose of the lambda operator (->) in Java lambda expressions?
+A) It specifies the required parameters of an expression
+B) It converts an expression to a method with a name
+C) Divides the expression into parameter list and lambda body
+D) It indicates a constant value in expression
+Do you know the answer (a/b/c/d)?
+
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: Divides the expression into parameter list and lambda body
+
+Q63: In what order are the constructors executed when a class hierarchy is created?
+A) From subclass to superclass
+B) From superclass to subclass
+C) Any random order
+D) They do not execute in a class hierarchy
+Do you know the answer (a/b/c/d)?
+
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: From superclass to subclass
+
+Q64: Can an abstract class be instantiated directly with the new operator in Java?
+A) Yes
+B) No
+C) I'm not sure
+D) Maybe
+Do you know the answer (a/b/c/d)?
+
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: No
+
+Q65: What is the primary purpose of JDBC in Java?
+A) To create web pages
+B) To connect Java applications to databases
+C) To compile Java code
+D) To generate user interfaces
+Do you know the answer (a/b/c/d)?
+
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: To connect Java applications to databases
+
+Q66: Which of the following is required to set up PostgreSQL for JDBC?
+A) Installing JDBC UI plugin
+B) Creating a new Java SDK
+C) Installing PostgreSQL and setting up the database
+D) Writing SQL code in JavaScript
+Do you know the answer (a/b/c/d)?
+
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: Installing PostgreSQL and setting up the database
+
+Q67: What is the correct order of steps in JDBC programming?
+A) Create Statement -> Load Driver -> Execute Query -> Close Connection
+B) Load Driver -> Establish Connection -> Create Statement -> Execute Query -> Close Connection
+C) Execute Query -> Load Driver -> Create Statement -> Close Connection
+D) Load Driver -> Execute Query -> Close Connection -> Create Statement
+Do you know the answer (a/b/c/d)?
+
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: Load Driver -> Establish Connection -> Create Statement -> Execute Query -> Close Connection
+
+Q68: Which external file is needed to connect PostgreSQL with Java using JDBC?
+A) jdbc-utils.jar
+B) pgadmin.jar
+C) mysql-connector.jar
+D) postgresql-<version>.jar
+Do you know the answer (a/b/c/d)?
+
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: postgresql-<version>.jar
+
+Q69: Which method is used to establish a connection between Java and the database?
+A) Driver.connect()
+B) DriverManager.getConnection()
+C) Connection.create()
+D) SQL.connect()
+Do you know the answer (a/b/c/d)?
+
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: DriverManager.getConnection()
+
+Q70: Which JDBC interface is used to execute SQL queries and retrieve results?
+A) ResultSet
+B) Statement
+C) Connection
+D) DriverManager
+Do you know the answer (a/b/c/d)?
+
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: Statement
+
+Q71: What does ResultSet in JDBC represent?
+A) A database connection
+B) An SQL statement
+C) A set of database drivers
+D) A table of data representing the result of a query
+Do you know the answer (a/b/c/d)?
+
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: A table of data representing the result of a query
+
+Q72: Which CRUD operation does executeUpdate() typically support in JDBC?
+A) INSERT, UPDATE, DELETE
+B) SELECT
+C) CONNECT
+D) EXECUTE
+Do you know the answer (a/b/c/d)?
+
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: INSERT, UPDATE, DELETE
+
+Q73: Why is using Statement in JDBC considered risky?
+A) It cannot execute SQL queries
+B) It only works with PostgreSQL
+C) It is vulnerable to SQL injection attacks
+D) It is deprecated in newer JDBC versions
+Do you know the answer (a/b/c/d)?
+
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: It is vulnerable to SQL injection attacks
+
+Q74: What is the main benefit of using PreparedStatement over Statement?
+A) Easier syntax
+B) It reduces network traffic
+C) It prevents SQL injection and improves performance
+D) It improves GUI rendering
+Do you know the answer (a/b/c/d)?
+
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: It prevents SQL injection and improves performance
+
+Q75: Do you know, what's the output? [Hint: staticA]
+
+class A {
+        public void run() {
+                System.out.println("Run is running");
+        }
+}
+
+class Outer {
+        staticA obj=new A(){};
+        public static void main(String[] args) {
+                obj.run();
+        }
+}
+
+A) No output
+B) Run is running
+C) Run-time error
+D) Compile-time error
+Do you know the answer (a/b/c/d)?
+
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: Compile-time error
+
+Q76: Which format specifier is used to print a double value in Java?
+A) %d
+B) %f
+C) %lf
+D) %s
+Do you know the answer (a/b/c/d)?
+
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: %f
+
+Q77: What is the output of the code snippet?
+
+interface MyCode{
+        double myScore();
+}
+
+public class Main{
+        public static void main(String[] args) {
+                MyCode myScore = () -> 99;
+                System.out.printf("%d", myScore.myScore());
+                System.out.print(myScore.myScore());
+        }
+}
+
+A) 9999
+B) 9999.0
+C) Run-time error
+D) Compile-time error
+Do you know the answer (a/b/c/d)?
+
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: Run-time error
+
+Q78: If we replace %d with %.0f in the previous question, what is the output?
+
+interface MyCode{
+        double myScore();
+}
+
+public class Main{
+        public static void main(String[] args) {
+                MyCode myScore = () -> 99;
+                System.out.printf("%.0f", myScore.myScore());
+                System.out.print(myScore.myScore());
+        }
+}
+
+A) 9999
+B) 9999.0
+C) Run-time error
+D) Compile-time error
+Do you know the answer (a/b/c/d)?
+
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: 9999.0
+
+Final Score: 0 out of 78.
+Percentage: 0.00%
+
+You need to study harder!
+
+Do you want to play again (y/n)?: why
+
+Do you want to play again (y/n)?: where
+
+Do you want to play again (y/n)?: nooo
+
+I hope you had fun...
+Have a wonderful day @^^@
+
+Exiting... ~<. _ .>~
+
+< # Error Handling [CTRL + C, EOF, clear pending input while welcome screen animation] >
+
+
+ 
+Hello! Welcome 
+
+to 
+Play 
+Quiz 
+
+@''@ 
+
+ Get ready with your keyboard hjhdhh
+because... 
+ I'll be asking you 78 questions! 
+
+ PRESS ENTER TO SKIP ANY QUESTION! 
+
+ DON'T EXCEED 1000 CHARACTERS! 
+
+ And good luck > '' < 
+ 
+Q1: Which keyword is used to define a class in Java?
+A) interface
+B) enum
+C) class
+D) method
+Do you know the answer (a/b/c/d)?
+option class
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: class
+
+Q2: Java is primarily which type of programming language?
+A) Functional
+B) Procedural
+C) Object-Oriented
+D) Logical
+Do you know the answer (a/b/c/d)?
+object oriented obj
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: Object-Oriented
+
+Q3: Which keyword is used for defining an integer variable in Java?
+A) Int
+B) num
+C) digit
+D) int
+Do you know the answer (a/b/c/d)?
+int int 
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: int
+
+Q4: Which component of Java is responsible for running bytecode?
+A) JRE
+B) JVM
+C) JDK
+D) JavaC
+Do you know the answer (a/b/c/d)?
+o2
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: JVM
+
+Q5: Which method serves as the entry point of a Java program?
+A) start
+B) run
+C) main
+D) execute
+Do you know the answer (a/b/c/d)?
+iiiizzz first gjzzz
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: main
+
+Q6: Which method is used to add a new line character at the end of the output in the console?
+A) print()
+B) printf()
+C) println()
+D) log()
+Do you know the answer (a/b/c/d)?
+zzzz --- third ```
+
+You entered: println()
+That's correct!
+
+Q7: Is Java a Strictly Typed Language?
+A) Yes
+B) No
+C) Maybe
+D) There is no such thing
+Do you know the answer (a/b/c/d)?
+YeHHH
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: Yes
+
+Q8: What kind of error will be thrown if the main method is not found in the Java program?
+A) Semantic Error
+B) Logical Error
+C) Runtime Error
+D) Compile Error
+Do you know the answer (a/b/c/d)?
+answer is c
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: Runtime Error
+
+Q9: Which of the following is the valid way to represent a long literal in Java?
+A) 123l
+B) 0b1010L
+C) 123L
+D) All of the above
+Do you know the answer (a/b/c/d)?
+dd aa ee
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: All of the above
+
+Q10: What do you mean by type promotion in Java?
+A) Conversion of data from lower to higher data types
+B) Conversion of data from higher to lower data types
+C) Conversion of data from string type to other data types
+D) Conversion of data from object data types to primitive data types
+Do you know the answer (a/b/c/d)?
+   aaa first aa 111sttt     
+
+You entered: Conversion of data from lower to higher data types
+That's correct!
+
+Q11: Choose an invalid way to declare a character variable in Java.
+A) char c = 'a'
+B) char c = "a"
+C) char c = 97
+D) char c = '\u0061'
+Do you know the answer (a/b/c/d)?
+I'll enter CRTL + C now
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: char c = "a"
+
+Q12: What is the default value assigned to a variable of boolean type?
+A) True
+B) False
+C) 0
+D) 1
+Do you know the answer (a/b/c/d)?
+Calm down! Shutting down gracefully...
+
+< # Well Tried! Score feedback test >
+
+
+ Hello! Welcome to Play Quiz @''@
+
+ Get ready with your keyboard because...
+ I'll be asking you 78 questions!
+
+ PRESS ENTER TO SKIP ANY QUESTION!
+
+ DON'T EXCEED 1000 CHARACTERS!
+
+ And good luck > '' <
+
+Q1: Which keyword is used to define a class in Java?
+A) interface
+B) enum
+C) class
+D) method
+Do you know the answer (a/b/c/d)?
+c
+
+You entered: class
+That's correct!
+
+Q2: Java is primarily which type of programming language?
+A) Functional
+B) Procedural
+C) Object-Oriented
+D) Logical
+Do you know the answer (a/b/c/d)?
+c
+
+You entered: Object-Oriented
+That's correct!
+
+Q3: Which keyword is used for defining an integer variable in Java?
+A) Int
+B) num
+C) digit
+D) int
+Do you know the answer (a/b/c/d)?
+d
+
+You entered: int
+That's correct!
+
+Q4: Which component of Java is responsible for running bytecode?
+A) JRE
+B) JVM
+C) JDK
+D) JavaC
+Do you know the answer (a/b/c/d)?
+b
+
+You entered: JVM
+That's correct!
+
+Q5: Which method serves as the entry point of a Java program?
+A) start
+B) run
+C) main
+D) execute
+Do you know the answer (a/b/c/d)?
+c
+
+You entered: main
+That's correct!
+
+Q6: Which method is used to add a new line character at the end of the output in the console?
+A) print()
+B) printf()
+C) println()
+D) log()
+Do you know the answer (a/b/c/d)?
+c
+
+You entered: println()
+That's correct!
+
+Q7: Is Java a Strictly Typed Language?
+A) Yes
+B) No
+C) Maybe
+D) There is no such thing
+Do you know the answer (a/b/c/d)?
+y
+
+You entered: Yes
+That's correct!
+
+Q8: What kind of error will be thrown if the main method is not found in the Java program?
+A) Semantic Error
+B) Logical Error
+C) Runtime Error
+D) Compile Error
+Do you know the answer (a/b/c/d)?
+c
+
+You entered: Runtime Error
+That's correct!
+
+Q9: Which of the following is the valid way to represent a long literal in Java?
+A) 123l
+B) 0b1010L
+C) 123L
+D) All of the above
+Do you know the answer (a/b/c/d)?
+d
+
+You entered: All of the above
+That's correct!
+
+Q10: What do you mean by type promotion in Java?
+A) Conversion of data from lower to higher data types
+B) Conversion of data from higher to lower data types
+C) Conversion of data from string type to other data types
+D) Conversion of data from object data types to primitive data types
+Do you know the answer (a/b/c/d)?
+a
+
+You entered: Conversion of data from lower to higher data types
+That's correct!
+
+Q11: Choose an invalid way to declare a character variable in Java.
+A) char c = 'a'
+B) char c = "a"
+C) char c = 97
+D) char c = '\u0061'
+Do you know the answer (a/b/c/d)?
+b
+
+You entered: char c = "a"
+That's correct!
+
+Q12: What is the default value assigned to a variable of boolean type?
+A) True
+B) False
+C) 0
+D) 1
+Do you know the answer (a/b/c/d)?
+F
+
+You entered: False
+That's correct!
+
+Q13: What is the result of the following code snippet?
+
+class Main {
+        public static void main(String[] args) {
+                char ch = 'a';
+                char result = (char) (ch + 1);
+                System.out.println(result);
+        }
+}
+
+A) a
+B) b
+C) 98
+D) Compilation Error
+Do you know the answer (a/b/c/d)?
+b
+
+You entered: b
+That's correct!
+
+Q14: What is the result of the following code snippet?
+
+class Main {
+        public static void main(String[] args) {
+                byte b1=5,b2=6;
+                byte b3=(byte)(b1+b2);
+                System.out.println(b3);
+        }
+}
+
+A) 11
+B) 5
+C) Run-time error
+D) Compile-time error
+Do you know the answer (a/b/c/d)?
+11
+
+You entered: 11
+That's correct!
+
+Q15: What does a high-order bit represent for an integer?
+A) sign of integer
+B) magnitude of integer
+C) binary number
+D) nonnegative number
+Do you know the answer (a/b/c/d)?
+a
+
+You entered: sign of integer
+That's correct!
+
+Q16: What is the result of the following expression: !(true || false)?
+A) true
+B) false
+C) Error
+D) 0
+Do you know the answer (a/b/c/d)?
+f
+
+You entered: false
+That's correct!
+
+Q17: What will be the value of variables 'a' and 'b' after the execution of the given code?
+
+class Main {
+        public static void main(String[] args) {
+                int a, b;
+                a=b=10;
+                System.out.println(a);
+                System.out.println(b);
+        }
+}
+
+A) compile time error
+B) runtime error
+C) a=0 and b=10
+D) a=10 and b=10
+Do you know the answer (a/b/c/d)?
+d
+
+You entered: a=10 and b=10
+That's correct!
+
+Q18: Predict the output of the following code:
+
+class Main {
+        public static void main(String[] args) {
+                int a = 3;
+                int b = 6;
+                int result = (~a & b) | (a & ~b);
+                System.out.println(result);
+        }
+}
+
+A) 5
+B) 7
+C) 0
+D) 1
+Do you know the answer (a/b/c/d)?
+5
+
+You entered: 5
+That's correct!
+
+Q19: Which conditional statement is used to check multiple possible values of a variable?
+A) if-else
+B) switch
+C) ternary operator
+D) nested if-else
+Do you know the answer (a/b/c/d)?
+b
+
+You entered: switch
+That's correct!
+
+Q20: What is the output of the following program in Java?
+
+if(1) {
+        System.out.println("Aloo Bhujiya");
+}
+
+A) Aloo Bhujiya
+B) 1
+C) Compile-time error
+D) Run-time error
+Do you know the answer (a/b/c/d)?
+c
+
+You entered: Compile-time error
+That's correct!
+
+Q21: Predict the output of the code:
+
+int x = 2;
+switch(x) {
+        case 1:
+
+        case 2:
+
+        case 3:
+
+                System.out.println("Fly");
+                break;
+        case 4:
+
+                System.out.println("Swim");
+}
+
+A) Compile-time error
+B) Fly
+C) Swim
+D) No Output
+Do you know the answer (a/b/c/d)?
+b
+
+You entered: Fly
+That's correct!
+
+Q22: What will be the value of variables 'x' and 'y' from the given code?
+
+int x = 5;
+int y = 10;
+int z = (x++ > 5 && y-- < 10) ? x-- : y;
+
+A) x=7 and y=10
+B) x=6 and y=10
+C) x=5 and y=9
+D) x=5 and y=10
+Do you know the answer (a/b/c/d)?
+b
+
+You entered: x=6 and y=10
+That's correct!
+
+Q23: Which loop executes the code block based on a condition that is checked before each iteration in Java?
+A) while loop
+B) for loop
+C) do-while loop
+D) Both a and b
+Do you know the answer (a/b/c/d)?
+d
+
+You entered: Both a and b
+That's correct!
+
+Q24: What is the type of the do-while loop in terms of control flow?
+A) Entry-controlled loop
+B) Exit-controlled loop
+C) Infinite loop
+D) Nested loop
+Do you know the answer (a/b/c/d)?
+b
+
+You entered: Exit-controlled loop
+That's correct!
+
+Q25: What will be the output of the given code snippet?
+
+public static void main(String[] args) {
+        int i, j;
+        i = 100;
+        j=300;
+        while(++i < --j);
+        System.out.println(i);
+}
+
+A) 150
+B) 100
+C) 200
+D) Compile-time error
+Do you know the answer (a/b/c/d)?
+c
+
+You entered: 200
+That's correct!
+
+Q26: Does the 'new' keyword allocate memory for an object during runtime in Java?
+A) Yes
+B) No
+C) It doesn't exist
+D) new is not a keyword
+Do you know the answer (a/b/c/d)?
+yes
+
+You entered: Yes
+That's correct!
+
+Q27: Does the main() method be overloaded in Java?
+A) Yes
+B) No
+C) main is not a method
+D) Only in special cases
+Do you know the answer (a/b/c/d)?
+y
+
+You entered: Yes
+That's correct!
+
+Q28: What will happen if a local variable has the same name as an instance variable within a class?
+A) Local variable hides the instance variable
+B) Instance variable hides the local variable
+C) Local variable executes after instance variable
+D) A compile-time error will occur
+Do you know the answer (a/b/c/d)?
+a
+
+You entered: Local variable hides the instance variable
+That's correct!
+
+Q29: Which term is used when we can define two or more methods of the same name within the same class?
+A) Method overriding
+B) Method overloading
+C) Method hiding
+D) Method construction
+Do you know the answer (a/b/c/d)?
+b
+
+You entered: Method overloading
+That's correct!
+
+Q30: What will be printed after the execution of the given code?
+
+class Message {
+        public void printMessage(int message) {
+                        System.out.println("Message primitive: " + message);
+        }
+
+        public void printMessage(Integer message) {
+        System.out.println("Message object: " + message);
+        }
+}
+
+class Main {
+        public static void main(String[] ars) {
+                int a = 3;
+                Message ob=new Message();
+                ob.printMessage(5);
+        }
+}
+
+A) Message primitive: 5
+B) Message object: 5
+C) Compile-time error
+D) Run-time error
+Do you know the answer (a/b/c/d)?
+a
+
+You entered: Message primitive: 5
+That's correct!
+
+Q31: Where are instance variables allocated in memory?
+A) Stack
+B) Heap
+C) Queue
+D) Array
+Do you know the answer (a/b/c/d)?
+b
+
+You entered: Heap
+That's correct!
+
+Q32: Which subsystem of the JVM is responsible for loading class files?
+A) ClassLoader
+B) JVM Loader
+C) Bytecode Loader
+D) Run-time Loader
+Do you know the answer (a/b/c/d)?
+a
+
+You entered: ClassLoader
+That's correct!
+
+Q33: What does arr[arr.length-1].length represents in a multidimensional array?Length of the longest column in the array
+A) Length of the longest column in the array
+B) Number of columns in the array
+C) Total number of elements in the array
+D) Length of the last row in the array
+Do you know the answer (a/b/c/d)?
+a
+
+You entered: Length of the longest column in the array
+Oh-ooh! You got it wrong >w' _ 'w<
+The correct answer is: Length of the last row in the array
+
+Q34: What will be printed after the execution of the given code?
+
+class Main{
+        public static void main(String[] args) {
+                String password[] = { "XY01", "XY02", "XY03", "XY04"};
+                String result =" ";
+                for(int i = password.length-1; i>=2; i--) {
+                        result = result + password[i];
+                }
+                System.out.println(result); }
+}
+
+A) XY01XY02
+B) XY03XY02
+C) XY04XY03
+D) Run-time error
+Do you know the answer (a/b/c/d)?
+c
+
+You entered: XY04XY03
+That's correct!
+
+Q35: Which access modifier is used to access members of an inherited class when two classes are in different packages?
+A) private
+B) default
+C) protected
+D) static
+Do you know the answer (a/b/c/d)?
+c
+
+You entered: protected
+That's correct!
+
+Q36: Which principle emphasizes the binding of data and methods within a class?
+A) Polymorphism
+B) Encapsulation
+C) Abstraction
+D) Inheritance
+Do you know the answer (a/b/c/d)?
+b
+
+You entered: Encapsulation
+That's correct!
+
+Q37: Can the value of a variable be changed if it is initialized with the 'final' keyword?
+A) Yes
+B) Sometimes
+C) No
+D) Only once
+Do you know the answer (a/b/c/d)?
+
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: No
+
+Q38: Does the given code defines the valid way to initialize the value to the final variable?
+
+class MyClass {
+        private final int myVariable;
+        {
+                myVariable = 10;
+        }
+}
+
+A) No
+B) Yes
+C) Compile-time error
+D) Run-time error
+Do you know the answer (a/b/c/d)?
+
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: Yes
+
+Q39: Which keyword is used to define a class member that can be accessed without reference to any object?
+A) private
+B) public
+C) final
+D) static
+Do you know the answer (a/b/c/d)?
+
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: static
+
+Q40: Which keyword is used to achieve inheritance in Java?
+A) final
+B) extends
+C) this
+D) implements
+Do you know the answer (a/b/c/d)?
+
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: extends
+
+Q41: Can a class be a superclass of itself in Java?
+A) Yes
+B) No
+C) I don't know
+D) Java allows circular reference
+Do you know the answer (a/b/c/d)?
+
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: No
+
+Q42: Is method shadowing or method hiding possible with the private method?
+A) Yes
+B) No
+C) I don't know
+D) There is no concept as method shadowing
+Do you know the answer (a/b/c/d)?
+
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: Yes
+
+Q43: What is the return type of overridden methods?
+A) Covariant Return Types
+B) Different from a superclass
+C) void only
+D) Not specified
+Do you know the answer (a/b/c/d)?
+
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: Covariant Return Types
+
+Q44: What interface is implemented by the String, StringBuffer, and StringBuilder classes?
+A) StringSequence
+B) CharSequence
+C) StringManipulator
+D) CharSequenceBuffer
+Do you know the answer (a/b/c/d)?
+
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: CharSequence
+
+Q45: What will be the output of the given code snippet?
+
+char chars[] = {'a', 'b', 'c', 'd', 'e', 'f'};
+String str = new String(chars,1,3);
+System.out.println(str);
+
+A) ['b', 'c', 'd']
+B) ['b', 'c', 'd', 'e']
+C) bcd
+D) bcde
+Do you know the answer (a/b/c/d)?
+
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: bcd
+
+Q46: Which constructor of StringBuffer reserves room for 16 characters without reallocation?
+A) StringBuffer()
+B) StringBuffer(int size)
+C) StringBuffer(String str)
+D) StringBuffer(CharSequence chars)
+Do you know the answer (a/b/c/d)?
+
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: StringBuffer()
+
+Q47: Which class can be used when multiple threads are involved and thread-safety is required?
+A) StringBuffer
+B) StringBuilder
+C) Both can be used
+D) None of the above
+Do you know the answer (a/b/c/d)?
+
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: StringBuffer
+
+Q48: What will be the value of the s1 and s2 variables after the execution of the following code?
+
+class Main{
+        public static void main(String[] args) {
+                char ch [] = {'T', 'e', 'l', 'u', 's', 'k', 'o'};
+                String st1 = new String(ch);
+                String st2 = new String(st1);
+                System.out.println(st1);
+                System.out.println(st2);
+
+A) Telusko and null
+B) Telusko and st1
+C) Telusko and Telusko
+D) Telusko and ['T', 'e', 'l', 'u', 's', 'k', 'o']
+Do you know the answer (a/b/c/d)?
+
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: Telusko and Telusko
+
+Q49: Determine the capacity of the StringBuffer before and after the use of trimToSize() method in the given code:
+
+StringBuffer sb = new StringBuffer("Java Code");
+System.out.println(sb.capacity());
+sb.trimToSize();
+System.out.println(sb.capacity());
+
+A) 16 and 16
+B) 16 and 9
+C) 25 and 9
+D) 25 and 16
+Do you know the answer (a/b/c/d)?
+
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: 25 and 9
+
+Q50: What Java keyword is employed for specifying a default method within a Java interface?
+A) new
+B) override
+C) implements
+D) default
+Do you know the answer (a/b/c/d)?
+
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: default
+
+Q51: When implementing a Java interface, methods must possess the following access modifier:
+A) public
+B) abstract
+C) private
+D) protected
+Do you know the answer (a/b/c/d)?
+
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: public
+
+Q52: By default, the methods enclosed within a Java interface are characterized as:
+A) abstract and public
+B) synchronized and void
+C) private and static
+D) final and protected
+Do you know the answer (a/b/c/d)?
+
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: abstract and public
+
+Q53: What is the output of the following code snippet?
+
+interface MyCode{
+        double myScore();
+}
+
+public class Main{
+        public static void main(String[] args) {
+                MyCode myScore;
+                myCode = () -> 87;
+                System.out.println(MyCode.myScore());
+        }
+}
+
+A) 87
+B) 87.0
+C) Run-time error
+D) Compile-time error
+Do you know the answer (a/b/c/d)?
+
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: Compile-time error
+
+Q54: What is the output of the code?
+
+public class Main{
+        int a=5;
+        A obj =()->{ System.out.println(this.a);};
+        public static void main(String[] args) {
+                Main ob=new Main();
+                ob.obj.run();
+        }
+}
+
+interface A {
+         public void run();
+}
+
+A) 5
+B) 0
+C) Run-time error
+D) Compile-time error
+Do you know the answer (a/b/c/d)?
+
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: 5
+
+Q55: Comment on the statement: "The method defined by a lambda expression does not have a name."
+A) True
+B) False
+C) Not a valid question
+D) Skip
+Do you know the answer (a/b/c/d)?
+
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: False
+
+Q56: What is the output of the code?
+
+class A {
+        public void run() {
+                System.out.println("I am running");
+        }
+}
+
+class Outer {
+        static A obj=new A(){};
+        public static void main(String[] args) {
+                obj.run();
+        }
+}
+
+A) No output
+B) I am running
+C) Run-time error
+D) Compile-time error
+Do you know the answer (a/b/c/d)?
+
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: I am running
+
+Q57: What does Inner classes promote in Java?
+A) Composition and aggregation
+B) Inheritance
+C) Polymorphism
+D) Abstraction
+Do you know the answer (a/b/c/d)?
+
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: Composition and aggregation
+
+Q58: How do you access the method "m1()" of the inner class inside the main method?
+
+class Outer {
+        class Inner {
+                public void m1() {
+                        System.out.println("inner class instance m1()");}
+        }
+public static void main(String[] args) {}
+}
+
+A) Outer.Inner i = new Outer().Inner();
+B) Inner i = new Outer().new Inner();
+C) Outer.Inner i = new Outer().new Inner();
+D) new Outer().new Inner().m1();
+Do you know the answer (a/b/c/d)?
+
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: new Outer().new Inner().m1();
+
+Q59: What is the key requirement for an interface to be considered a functional interface?
+A) It must define at least one abstract method
+B) It must define multiple abstract methods
+C) It must define only one abstract method
+D) It must define a method named "run"
+Do you know the answer (a/b/c/d)?
+
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: It must define only one abstract method
+
+Q60: Which of the given expressions returns 'true' if the value of the parameter n is even?
+A) (n) -> (n % 2) != 0
+B) (n) -> (n % 2) == 0
+C) () -> (n % 2) == 0
+D) (n % 2) -> (n) == 0
+Do you know the answer (a/b/c/d)?
+
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: (n) -> (n % 2) == 0
+
+Q61: Can a subclass reference variable be assigned to a superclass reference variable?
+A) Maybe
+B) No
+C) Yes
+D) abstract classes only
+Do you know the answer (a/b/c/d)?
+
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: Yes
+
+Q62: What is the purpose of the lambda operator (->) in Java lambda expressions?
+A) It specifies the required parameters of an expression
+B) It converts an expression to a method with a name
+C) Divides the expression into parameter list and lambda body
+D) It indicates a constant value in expression
+Do you know the answer (a/b/c/d)?
+
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: Divides the expression into parameter list and lambda body
+
+Q63: In what order are the constructors executed when a class hierarchy is created?
+A) From subclass to superclass
+B) From superclass to subclass
+C) Any random order
+D) They do not execute in a class hierarchy
+Do you know the answer (a/b/c/d)?
+
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: From superclass to subclass
+
+Q64: Can an abstract class be instantiated directly with the new operator in Java?
+A) Yes
+B) No
+C) I'm not sure
+D) Maybe
+Do you know the answer (a/b/c/d)?
+
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: No
+
+Q65: What is the primary purpose of JDBC in Java?
+A) To create web pages
+B) To connect Java applications to databases
+C) To compile Java code
+D) To generate user interfaces
+Do you know the answer (a/b/c/d)?
+
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: To connect Java applications to databases
+
+Q66: Which of the following is required to set up PostgreSQL for JDBC?
+A) Installing JDBC UI plugin
+B) Creating a new Java SDK
+C) Installing PostgreSQL and setting up the database
+D) Writing SQL code in JavaScript
+Do you know the answer (a/b/c/d)?
+
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: Installing PostgreSQL and setting up the database
+
+Q67: What is the correct order of steps in JDBC programming?
+A) Create Statement -> Load Driver -> Execute Query -> Close Connection
+B) Load Driver -> Establish Connection -> Create Statement -> Execute Query -> Close Connection
+C) Execute Query -> Load Driver -> Create Statement -> Close Connection
+D) Load Driver -> Execute Query -> Close Connection -> Create Statement
+Do you know the answer (a/b/c/d)?
+
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: Load Driver -> Establish Connection -> Create Statement -> Execute Query -> Close Connection
+
+Q68: Which external file is needed to connect PostgreSQL with Java using JDBC?
+A) jdbc-utils.jar
+B) pgadmin.jar
+C) mysql-connector.jar
+D) postgresql-<version>.jar
+Do you know the answer (a/b/c/d)?
+
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: postgresql-<version>.jar
+
+Q69: Which method is used to establish a connection between Java and the database?
+A) Driver.connect()
+B) DriverManager.getConnection()
+C) Connection.create()
+D) SQL.connect()
+Do you know the answer (a/b/c/d)?
+
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: DriverManager.getConnection()
+
+Q70: Which JDBC interface is used to execute SQL queries and retrieve results?
+A) ResultSet
+B) Statement
+C) Connection
+D) DriverManager
+Do you know the answer (a/b/c/d)?
+
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: Statement
+
+Q71: What does ResultSet in JDBC represent?
+A) A database connection
+B) An SQL statement
+C) A set of database drivers
+D) A table of data representing the result of a query
+Do you know the answer (a/b/c/d)?
+
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: A table of data representing the result of a query
+
+Q72: Which CRUD operation does executeUpdate() typically support in JDBC?
+A) INSERT, UPDATE, DELETE
+B) SELECT
+C) CONNECT
+D) EXECUTE
+Do you know the answer (a/b/c/d)?
+
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: INSERT, UPDATE, DELETE
+
+Q73: Why is using Statement in JDBC considered risky?
+A) It cannot execute SQL queries
+B) It only works with PostgreSQL
+C) It is vulnerable to SQL injection attacks
+D) It is deprecated in newer JDBC versions
+Do you know the answer (a/b/c/d)?
+
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: It is vulnerable to SQL injection attacks
+
+Q74: What is the main benefit of using PreparedStatement over Statement?
+A) Easier syntax
+B) It reduces network traffic
+C) It prevents SQL injection and improves performance
+D) It improves GUI rendering
+Do you know the answer (a/b/c/d)?
+
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: It prevents SQL injection and improves performance
+
+Q75: Do you know, what's the output? [Hint: staticA]
+
+class A {
+        public void run() {
+                System.out.println("Run is running");
+        }
+}
+
+class Outer {
+        staticA obj=new A(){};
+        public static void main(String[] args) {
+                obj.run();
+        }
+}
+
+A) No output
+B) Run is running
+C) Run-time error
+D) Compile-time error
+Do you know the answer (a/b/c/d)?
+
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: Compile-time error
+
+Q76: Which format specifier is used to print a double value in Java?
+A) %d
+B) %f
+C) %lf
+D) %s
+Do you know the answer (a/b/c/d)?
+
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: %f
+
+Q77: What is the output of the code snippet?
+
+interface MyCode{
+        double myScore();
+}
+
+public class Main{
+        public static void main(String[] args) {
+                MyCode myScore = () -> 99;
+                System.out.printf("%d", myScore.myScore());
+                System.out.print(myScore.myScore());
+        }
+}
+
+A) 9999
+B) 9999.0
+C) Run-time error
+D) Compile-time error
+Do you know the answer (a/b/c/d)?
+
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: Run-time error
+
+Q78: If we replace %d with %.0f in the previous question, what is the output?
+
+interface MyCode{
+        double myScore();
+}
+
+public class Main{
+        public static void main(String[] args) {
+                MyCode myScore = () -> 99;
+                System.out.printf("%.0f", myScore.myScore());
+                System.out.print(myScore.myScore());
+        }
+}
+
+A) 9999
+B) 9999.0
+C) Run-time error
+D) Compile-time error
+Do you know the answer (a/b/c/d)?
+
+
+Don't worry! I got you @(> ^ <)@
+The correct answer is: 9999.0
+
+Final Score: 35 out of 78.
+Percentage: 44.87%
+
+Well tried!
+
+Do you want to play again (y/n)?: n
+
+I hope you had fun...
+Have a wonderful day @^^@
+
+Exiting... ~<. _ .>~
