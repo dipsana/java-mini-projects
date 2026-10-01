@@ -3,7 +3,7 @@
 This repository uses a **branch-per-project** pattern. Each project lives on its own branch as a self-contained folder.
 The `main` branch is the aggregate. Works on union of disjoint sets concept.
 
-If it's something new, I name this structure: `Monorepo`.
+If it's something new, I name this structure: `Branch Monorepo`.
 This document explains the rules, the reasoning, and the recipes for working with the repository.
 
 ---
