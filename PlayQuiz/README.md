@@ -30,10 +30,10 @@ Download the latest release for your OS:
 
 | Platform | Download |
 | --- | --- |
-| **Windows** | [PlayQuiz-1.0.0.exe](https://github.com/dipsana/java-mini-projects/releases/download/playquiz-v1.0.0/PlayQuiz-1.0.0.exe) |
-| **macOS** | [PlayQuiz-1.0.0.dmg](https://github.com/dipsana/java-mini-projects/releases/download/playquiz-v1.0.0/PlayQuiz-1.0.0.dmg) |
-| **Linux** | [PlayQuiz-1.0.0.deb](https://github.com/dipsana/java-mini-projects/releases/download/playquiz-v1.0.0/playquiz_1.0.0_amd64.deb) |
-| **Any OS (with Java 21+)** | [play-quiz-1.0.0.jar](https://github.com/dipsana/java-mini-projects/releases/download/playquiz-v1.0.0/play-quiz-1.0.0.jar) |
+| **Windows** | [PlayQuiz-1.0.0.exe](https://github.com/dipsana/java-mini-projects/releases/download/v1.0.0/PlayQuiz-windows-latest.zip) |
+| **macOS** | [PlayQuiz-1.0.0.dmg](https://github.com/dipsana/java-mini-projects/releases/download/v1.0.0/PlayQuiz-macos-latest.zip) |
+| **Linux** | [PlayQuiz-1.0.0.deb](https://github.com/dipsana/java-mini-projects/releases/download/v1.0.0/PlayQuiz-ubuntu-latest.zip) |
+| **Any OS (with Java 21+)** | [play-quiz-1.0.0.jar](https://github.com/dipsana/java-mini-projects/releases/download/v1.0.0/play-quiz-1.0.0.jar) |
 
 > Check the [Releases page](https://github.com/dipsana/java-mini-projects/releases/latest) for the latest version.
 
