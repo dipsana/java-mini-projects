@@ -1,0 +1,51 @@
+# .gitignore
+
+# --- Local-only folders ---
+release-notes/
+
+# --- Maven ---
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+
+# --- jpackage output ---
+installer/
+installer-test/
+
+# --- IDE ---
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+.settings/
+.project
+.classpath
+
+# --- OS junk ---
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- Java artifacts (never commit) ---
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+
+# --- Logs ---
+*.log
+logs/
+
+# --- Local-only files ---
+*.local
+.env
