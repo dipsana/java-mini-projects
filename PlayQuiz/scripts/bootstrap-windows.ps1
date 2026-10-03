@@ -232,6 +232,8 @@ Write-Host "Found JAR: $($jarFile.Name)" -ForegroundColor Green
 # --- 12. Package with jpackage ---
 Write-Host "`nPackaging with jpackage..." -ForegroundColor Cyan
 
+# --type msi
+# --type app-image
 jpackage `
     --type app-image `
     --name "PlayQuiz" `
